@@ -1,0 +1,101 @@
+GitHub:7b6d785->7b6d785	Kohsuke:7b6d785->3419fc2	artifactory-plugin
+GitHub:c066281->c066281	Kohsuke:c066281->5e85b53	branch-api-plugin
+GitHub:220610b->64db20c	Kohsuke:220610b->c5bcbfd	build-pipeline-plugin
+GitHub:437818e->437818e	Kohsuke:437818e->a4401ec	build-timeout-plugin
+GitHub:c662016->c662016	Kohsuke:c662016->6f2347a	ci-game-plugin
+GitHub:4c8e9aa->4c8e9aa	Kohsuke:4c8e9aa->111a3ac	clearcase-plugin
+GitHub:6be8eec->6be8eec	Kohsuke:6be8eec->bd1e8b5	clearcase-ucm-plugin
+GitHub:4168346->5627e28	Kohsuke:4168346->5864c75	cloudtest-plugin
+GitHub:18a6109->18a6109	Kohsuke:18a6109->0dcb449	collabnet-plugin
+GitHub:53a55ff->53a55ff	Kohsuke:53a55ff->c607615	collapsing-console-sections-plugin
+GitHub:24d43d2->24d43d2	Kohsuke:24d43d2->5385fd1	compress-artifacts-plugin
+GitHub:ea9246c->4e34efc	Kohsuke:ea9246c->e222df0	conditional-buildstep-plugin
+GitHub:7ecd9f9->b926025	Kohsuke:7ecd9f9->8d2d57f	config-file-provider-plugin
+GitHub:6cfffe4->6cfffe4	Kohsuke:6cfffe4->031d1b0	copy-project-link-plugin
+GitHub:6ebdccd->6ebdccd	Kohsuke:6ebdccd->decc971	copy-to-slave-plugin
+GitHub:dc98ffe->46540cc	Kohsuke:dc98ffe->f468296	copyartifact-plugin
+GitHub:4a1900a->4a1900a	Kohsuke:4a1900a->bf29b9a	credentials-plugin
+GitHub:0c4cc5e->0c4cc5e	Kohsuke:0c4cc5e->fba61d3	crowd-plugin
+GitHub:62ae57b->62ae57b	Kohsuke:62ae57b->5b55da2	crowd2-plugin
+GitHub:a007da0->d08d54e	Kohsuke:a007da0->7138852	datical-db-plugin
+GitHub:5254918->eba7b2e	Kohsuke:5254918->a92fb0c	dependency-check-plugin
+GitHub:3dfe450->3dfe450	Kohsuke:3dfe450->af9a34c	disable-failed-job-plugin
+GitHub:3321172->8f6300d	Kohsuke:3321172->e45f2b2	disk-usage-plugin
+GitHub:b14ebd2->b14ebd2	Kohsuke:b14ebd2->53d256a	ec2-plugin
+GitHub:b7edb86->b7edb86	Kohsuke:b7edb86->fc58105	email-ext-plugin
+GitHub:81259f9->85c5ef6	Kohsuke:81259f9->016e67f	extended-choice-parameter-plugin
+GitHub:44bc629->e9180ae	Kohsuke:44bc629->3cfb305	extreme-feedback-plugin
+GitHub:33d5180->33d5180	Kohsuke:33d5180->0295703	gerrit-trigger-plugin
+GitHub:81f41e0->81f41e0	Kohsuke:81f41e0->257f945	git-chooser-alternative-plugin
+GitHub:50afccd->45728be	Kohsuke:45728be->50afccd	git-client-plugin
+ ^^^ discrepancy on the original commit ^^^ 
+GitHub:1e894cd->f6d42c4	Kohsuke:1e894cd->178af73	git-plugin
+			Kohsuke:aeacaf8->61dcb7f	git-plugin	branch:refs/heads/refactoring
+GitHub:343e467->343e467	Kohsuke:343e467->6cb6a03	gitbucket-plugin
+GitHub:2893812->088a5a4	Kohsuke:2893812->137bf15	global-variable-string-parameter-plugin
+GitHub:75d6687->511ffb2	Kohsuke:75d6687->1f8e15d	greenballs-plugin
+GitHub:9da3392->9da3392	Kohsuke:9da3392->c4a8e57	groovy-postbuild-plugin
+GitHub:ad9501d->ad9501d	Kohsuke:efb94d4->ad9501d	humbug-plugin
+ ^^^ discrepancy on the original commit ^^^ 
+GitHub:5665a8c->cafb75a	Kohsuke:5665a8c->d6e4751	ironmq-notifier-plugin
+GitHub:1dae727->1dae727	Kohsuke:1dae727->62b24aa	jacoco-plugin
+GitHub:2e0d61e->f579f18	Kohsuke:2e0d61e->6f184b9	jclouds-plugin
+GitHub:9c9e780->5baab3e	Kohsuke:9c9e780->824817d	jira-plugin
+GitHub:d6901cc->d6901cc	Kohsuke:d6901cc->b12302b	job-poll-action-plugin
+GitHub:da057b5->da057b5	Kohsuke:da057b5->2988969	jobConfigHistory-plugin
+			Kohsuke:1ac9a85->bd241e6	json-lib	branch:refs/heads/rebase-2.4
+GitHub:8e4878d->8e4878d	Kohsuke:8e4878d->8602ff5	leiningen-plugin
+GitHub:5dcbf77->5dcbf77	Kohsuke:5dcbf77->b3a9659	logfilesizechecker-plugin
+GitHub:4f6be2d->4f6be2d	Kohsuke:4f6be2d->41de8d6	mailer-plugin
+GitHub:bf7b406->d0ce731	Kohsuke:bf7b406->6061ce2	matrix-auth-plugin
+GitHub:b06aa67->b06aa67	Kohsuke:b06aa67->c299168	maven-hpi-plugin
+GitHub:81864fa->81864fa	Kohsuke:81864fa->babc0f5	maven-info-plugin
+GitHub:ebb6ee3->60cbf5b	Kohsuke:ebb6ee3->66352e9	mercurial-plugin
+GitHub:78047b5->833dafb	Kohsuke:78047b5->57793fa	mesos-plugin
+GitHub:9738430->9738430	Kohsuke:9738430->802d8e3	nerrvana-plugin
+GitHub:607f54c->cc853be	Kohsuke:607f54c->518a384	nested-view-plugin
+GitHub:427244e->427244e	Kohsuke:427244e->9514292	next-build-number-plugin
+GitHub:3216065->3216065	Kohsuke:3216065->f6c8b0b	next-executions-plugin
+GitHub:ae5b010->ae5b010	Kohsuke:ae5b010->0b27b6f	perforce-plugin
+			Kohsuke:67323c6->fc3c580	perforce-plugin	branch:refs/heads/multiple-scm-instatination-fix
+GitHub:d23e2b3->042bad6	Kohsuke:d23e2b3->4f456a4	performance-plugin
+GitHub:fc6197f->fc6197f	Kohsuke:fc6197f->0098090	pitmutation-plugin
+			Kohsuke:70e0ba9->5a253ab	pitmutation-plugin	branch:refs/heads/generic-metrics
+GitHub:fafb95f->636cddc	Kohsuke:fafb95f->3975f05	postbuildscript-plugin
+GitHub:770c7bb->770c7bb	Kohsuke:bfe2f06->770c7bb	promoted-builds-plugin
+ ^^^ discrepancy on the original commit ^^^ 
+			Kohsuke:fe15a76->2f5e05e	prqa-plugin	branch:refs/heads/1.2.1
+GitHub:a7df762->a7df762	Kohsuke:a7df762->5cb94cf	prqa-plugin
+GitHub:ceb0d34->8b0b3a4	Kohsuke:ceb0d34->ce2ad77	radiatorview-plugin
+GitHub:42bc86d->31f9929	Kohsuke:42bc86d->8e52f38	repo-plugin
+GitHub:8974d0c->614942a	Kohsuke:8974d0c->4cda943	robot-plugin
+GitHub:80bcae9->80bcae9	Kohsuke:80bcae9->ad4e565	rvm-plugin
+GitHub:e10763d->e10763d	Kohsuke:e10763d->fa803cd	scm-api-plugin
+GitHub:22ce13e->22ce13e	Kohsuke:22ce13e->32f5d0a	scm2job-plugin
+GitHub:634609e->634609e	Kohsuke:0ca553b->634609e	scoring-load-balancer-plugin
+ ^^^ discrepancy on the original commit ^^^ 
+GitHub:bfa4377->1ccd9a8	Kohsuke:bfa4377->7af2b6b	selenium-axis-plugin
+GitHub:b7a7de1->b7a7de1	Kohsuke:b7a7de1->9489af7	selenium-tests
+			Kohsuke:7e81d63->4dad46b	skype-im-plugin	branch:refs/heads/v2dev
+GitHub:5671432->679b871	Kohsuke:5671432->1c8a2b7	skytap-cloud-plugin
+GitHub:f6808ab->3783fbc	Kohsuke:f6808ab->8d97ee1	smartfrog-plugin
+GitHub:651d786->651d786	Kohsuke:651d786->9aa6ae1	ssh-agent-plugin
+GitHub:6f6837d->6f6837d	Kohsuke:6f6837d->8f45e8a	ssh-credentials-plugin
+GitHub:be4fed6->be4fed6	Kohsuke:be4fed6->823e66f	ssh-slaves-plugin
+			Kohsuke:b65b0d9->28fc04f	stashnotifier-plugin	branch:refs/heads/develop
+			Kohsuke:aae02ab->0512752	subversion-plugin	branch:refs/heads/refactoring
+GitHub:b5cd303->b5cd303	Kohsuke:b5cd303->74b0f9e	subversion-plugin
+GitHub:5335494->5335494	Kohsuke:5335494->9d41c1e	swarm-plugin
+GitHub:ce1121b->4ec6bac	Kohsuke:ce1121b->830d25b	timestamper-plugin
+			Kohsuke:327c4e4->6463c81	transifex-plugin	branch:refs/heads/gh-pages
+GitHub:3f01925->3f01925	Kohsuke:3f01925->c085d0e	transifex-plugin
+GitHub:8d8b7d9->3db2f34	Kohsuke:8d8b7d9->dd7398a	translation-plugin
+GitHub:f10a954->b98a066	Kohsuke:f10a954->6d88930	unity3d-plugin
+GitHub:6f27fa9->3018aad	Kohsuke:6f27fa9->caafa1e	view-job-filters-plugin
+GitHub:eaec184->a3a219b	Kohsuke:eaec184->4372859	virtualbox-plugin
+GitHub:7e93f95->7e93f95	Kohsuke:7e93f95->25b6e0f	vstestrunner-plugin
+GitHub:a82c621->a82c621	Kohsuke:a82c621->264a089	warnings-plugin
+GitHub:69ceaa0->abb3f78	Kohsuke:69ceaa0->bfaf3ee	weblogic-deployer-plugin
+GitHub:ed6ca57->2d8cfdf	Kohsuke:ed6ca57->322193c	wix-plugin
+GitHub:62cf1a7->62cf1a7	Kohsuke:62cf1a7->10cb090	ws-cleanup-plugin
+GitHub:534c6f3->1b60618	Kohsuke:534c6f3->fc188b1	xunit-plugin

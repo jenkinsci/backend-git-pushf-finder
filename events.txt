@@ -1,0 +1,245 @@
+/usr/local/java6/bin/java -Didea.launcher.port=7541 -Didea.launcher.bin.path=/usr/idea-IU-129.1359/bin -Dfile.encoding=UTF-8 -classpath /usr/local/java6/jre/lib/jsse.jar:/usr/local/java6/jre/lib/plugin.jar:/usr/local/java6/jre/lib/deploy.jar:/usr/local/java6/jre/lib/charsets.jar:/usr/local/java6/jre/lib/resources.jar:/usr/local/java6/jre/lib/rt.jar:/usr/local/java6/jre/lib/jce.jar:/usr/local/java6/jre/lib/management-agent.jar:/usr/local/java6/jre/lib/javaws.jar:/usr/local/java6/jre/lib/ext/localedata.jar:/usr/local/java6/jre/lib/ext/dnsns.jar:/usr/local/java6/jre/lib/ext/sunpkcs11.jar:/usr/local/java6/jre/lib/ext/sunjce_provider.jar:/files/kohsuke/ws/jenkins/20131111-recovery/git-pushf-finder/target/classes:/home/kohsuke/.m2/repository/org/kohsuke/github-api/1.46-SNAPSHOT/github-api-1.46-SNAPSHOT.jar:/home/kohsuke/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar:/home/kohsuke/.m2/repository/commons-codec/commons-codec/1.7/commons-codec-1.7.jar:/home/kohsuke/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.2.3/jackson-databind-2.2.3.jar:/home/kohsuke/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.2.3/jackson-annotations-2.2.3.jar:/home/kohsuke/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.2.3/jackson-core-2.2.3.jar:/home/kohsuke/.m2/repository/commons-io/commons-io/1.4/commons-io-1.4.jar:/usr/idea-IU-129.1359/lib/idea_rt.jar com.intellij.rt.execution.application.AppMain org.jenkinsci.backend.gpff.App
+[FOUND  ] accurev-plugin,5b05d7972658910a72d800dfc88281faf3ec7b3b,9fea3f11b3983d59eea6cf65318d021beb4ffe06,refs/heads/master
+[FOUND  ] analysis-core-plugin,ee0137d5a7bd6c87f5e325efdaf0afd0892d4ca6,04a5bf74e1aa88f257e1739c05247766b541fb6e,refs/heads/master
+[FOUND  ] antexec-plugin,a26ab90825d6d3b2276f565aa7000e6b7e1c2caa,3f8b3438c05666095ae238c7348fd9bc75a85aee,refs/heads/master
+[INFO   ] no events in artifact-parameter-plugin
+[FOUND  ] artifactory-plugin,7b6d785974a9889c3cfcefdc02de23814f77bf06,3419fc266506fa5b6cb49249105e07662c99cc01,refs/heads/master
+[FOUND  ] associated-files-plugin,fc7bbc998f78035b990fb4958ab7b6521e1b895c,e2ada55a68a32fa1aef9b9fc84a50a04167317e1,refs/heads/master
+[FOUND  ] audit-trail-plugin,105373b095ac69919572c789f66d6748498eb385,e6b33579e79b07b30ba39f4e99c3a6dfa5bad675,refs/heads/master
+[FOUND  ] audit2db-plugin,faf33853d018f718c2cbf77af15f65d121b57a54,6b2446b453c5f02a9c24f86385334967ae8e7aa3,refs/heads/master
+[WARNING] events don't go back far enough: awseb-deployment-plugin
+[INFO   ] no events in backend-crowd-javanet-directory
+[WARNING] events don't go back far enough: backend-git-pushf-finder
+[INFO   ] no events in backend-l10n-server
+[INFO   ] no events in backend-plugin2rpm
+[FOUND  ] backend-pull-request-greeter,a1f7b153d9f3d38e0bd7be546f649379b825da86,c5087d6b4e86c95d9a8952341a09af76fba7883c,refs/heads/master
+[INFO   ] no events in backend-update-center
+[INFO   ] no events in backend-verify-issuetracker-component
+[FOUND  ] beaker-builder-plugin,2faad6cf23469e57d15ecb24d3ef8cd9e737ea55,2867a2aaa86d890e7ca04aab251ff387e63530f7,refs/heads/master
+[FOUND  ] branch-api-plugin,c066281306926cb8205e9afd12274e99e49cbf4f,5e85b537e1ca543191967097fc25f00626f1e170,refs/heads/master
+[INFO   ] no events in btrfs-workspace-plugin
+[INFO   ] no events in buddycloud-plugin
+[INFO   ] no events in buggame-plugin
+[FOUND  ] build-flow-plugin,4461ead768d0db87f53111ce7a9305a3f472ccf7,305af7f200373890fda2aad94b27f0f174807180,refs/heads/master
+[FOUND  ] build-pipeline-plugin,220610b7683b7ca40b6b470bc0b33191c140841a,c5bcbfdfee87a08d985c86ee7bfe8c4c9f5e8143,refs/heads/master
+[FOUND  ] build-timeout-plugin,437818e7439ca54c56da9cdd102db422bc152d11,a4401ec2943391c0ac019ae73af461f62dd8bc58,refs/heads/master
+[FOUND  ] buildgraph-view,4a6eb7f9639574096dee97593279c4761ddfa6a6,467286f057b7e29fa1301241bc671f0f7018ab81,refs/heads/master
+[FOUND  ] buildtriggerbadge-plugin,0ecad1eb94ef6e6eb172c271e92a8ee79049589e,4f33890d86689641edcb02b4099bf3d04039cbfa,refs/heads/master
+[FOUND  ] bytecode-compatibility-transformer,9884d93c14594d2e86693b9d4a8924d5a823651e,a62e389f53d73067d55082b7f08ed64445130e6e,refs/heads/master
+[INFO   ] no events in choice-from-file-parameter-plugin
+[FOUND  ] ci-game-plugin,c66201634b4310a7e1bb157c36026631093b22c1,6f2347a97a8f57bcf22233191d02b7147b4bc519,refs/heads/master
+[FOUND  ] clearcase-plugin,4c8e9aa7efc3babcc359d4414a2aa15452440562,111a3ac14b189fb879cbee407e7ae43d64bc1863,refs/heads/master
+[FOUND  ] clearcase-ucm-plugin,6be8eec2f26433aba78c63caf508442bb6e1ccfe,bd1e8b56a4180f6c413c56d7a6d33a1373dc5317,refs/heads/master
+[FOUND  ] cloudbees-folder-plugin,f36d4d600ba87488d18f679338f286e21cf38802,2af4a8bfc8e431854bbdb57ec488206109af81ee,refs/heads/master
+[FOUND  ] cloudbees-plugin-gateway,07c907691fc41faeaa0a0ec90edb14f75a098a74,f8b63011aa8e7192cf8d5c86eb2f0c3c8a7a6824,refs/heads/master
+[FOUND  ] cloudtest-plugin,416834682d48a85402490f7ed0cf57a476eaddbf,5864c752352929bb15069565fa2cb29827573725,refs/heads/master
+[FOUND  ] clover-plugin,a9861aea4f706d4263529f8c75562b33593b2628,b5904035cbd228209323383ef25341f55762af93,refs/heads/master
+[FOUND  ] cobertura-plugin,bac4f1790c9ec9c33718f9a41ba3a06b2d1fae28,d04c87d72915b977bf1c8d0e21a9d126609b42ec,refs/heads/master
+[FOUND  ] collabnet-plugin,18a61096a9c2f75df1ee68c6529cd1af17c77a56,0dcb4493871b6e8cab82e34c9d633d03474aa175,refs/heads/master
+[FOUND  ] collapsing-console-sections-plugin,53a55ff3d2bdf3f49531cc79bdd2d67ff854f26b,c607615e0620713827da39a8e52894e31e4eaca3,refs/heads/master
+[FOUND  ] compact-columns-plugin,7c68839b753402b15b1c16840885298bc09a1cc8,a303a24f8c7fc022904f723bab0989750606936d,refs/heads/master
+[FOUND  ] compress-artifacts-plugin,24d43d21ec636e01b62b9d9687e4f02ad6f49d1f,5385fd1b636ad4eadafca104ad2bb828af259f51,refs/heads/master
+[FOUND  ] conditional-buildstep-plugin,ea9246c1341f72312dbdd2ea488b69b05b3271ea,e222df01903afbdb2d8ffcd9c17383ce047b5278,refs/heads/master
+[FOUND  ] config-file-provider-plugin,7ecd9f9e7898393e09d47a70d298b61e48feebb0,8d2d57f671dd02e2f77f5c8454dc166357f5c74c,refs/heads/master
+[FOUND  ] configurationslicing-plugin,ded86667f54ace17e4ab15b7b0f3f7038c005578,eefdd378edd33db54ec7e2abcddbc63ca7428fec,refs/heads/master
+[INFO   ] no events in coordinator-plugin
+[FOUND  ] copy-project-link-plugin,6cfffe4ebd221c5aeef2a0cf80b88b46db12c004,031d1b05ba8f43ef14ad0e68e51e473b8f164419,refs/heads/master
+[FOUND  ] copy-to-slave-plugin,6ebdccd1b2ed3cc3e22684dc1d9fe9004aace07b,decc971d74e3367060d6b260dd7aebfa28e4da7a,refs/heads/master
+[FOUND  ] copyartifact-plugin,dc98ffee09eb387116317749e015d171abb961ca,f468296f905b23eebf0a36790612b100c8d7a8cd,refs/heads/master
+[FOUND  ] cppcheck-plugin,d018417f502077233c22e8f43ba108434f6ff559,5b6922cdfa6417621a9ecd1d59ccf03fd262aec7,refs/heads/master
+[FOUND  ] credentials-plugin,4a1900a81154b06d3e9b0391b0ba922abde609b8,bf29b9a4172802461bc8ec9c24f447fbe063baa8,refs/heads/master
+[FOUND  ] crowd-plugin,0c4cc5e156bc9b9ef7fa4d9494c31dd2d99b71e6,fba61d3a4d059e70c8dae16a4fe05b0a737e674e,refs/heads/master
+[FOUND  ] crowd2-plugin,62ae57b3ee49905da4b89d60ce71e357dcdc2da0,5b55da2b47e69b70e2d3aab7ddd85616898650fd,refs/heads/master
+[INFO   ] no events in cucumber-jvm-reports-plugin
+[FOUND  ] customtools-plugin,99eaa7603aac111c79ce1049af79a6bc1c0d2827,4128bbe4ac9c6cf1c8dcb0cfc80d0299ff68226a,refs/heads/master
+[FOUND  ] cvs-plugin,eb2a491ba66cb3177e47bbaba2a65ee4d2637b44,78bb5fbb3371383e2e0867bd9ac5f1bda6589420,refs/heads/master
+[FOUND  ] cvsclient,c16ac7b2b50ce7458ce0a38175cfa63f2efd7256,3003bc92180c2fcca84fef32b535ee418fc9037e,refs/heads/master
+[FOUND  ] dashboard-view-plugin,dbcf1ac1bf2d1d8b3de834d1931af988d1eb9ed1,48c29c68eb13781d3c550b6a2b9362d534cf8e5c,refs/heads/master
+[FOUND  ] datical-db-plugin,a007da04641eb50109c94d2f52e63f0a73ae2faf,713885216eb7c657ed7dc5b8240586077496d00b,refs/heads/master
+[FOUND  ] dependency-check-plugin,5254918d3a9e6a7f5502e72748f6bd9e65fe47be,a92fb0cf4be7f6e6dd93e8ef2fff84ff128b5037,refs/heads/master
+[FOUND  ] deploy-plugin,1e0a0fa20ba607bc343b18c6b6a02a0e170ad283,a9add4ebbc7f8e5ae6667e5d0b9b9423b0391fc3,refs/heads/master
+[FOUND  ] disable-failed-job-plugin,3dfe4500a26f9b1d7d350fb78be0faac918f6713,af9a34c47cfa58003c1538c03d1f2cde2e98ed98,refs/heads/master
+[FOUND  ] disk-usage-plugin,3321172230ba48cf4c61eff874ea1d0325ab5616,e45f2b21dd6f0563780ff465a5503e541aea9e6e,refs/heads/master
+[FOUND  ] doclinks-plugin,3369f4cfaa245461248f8147d5dde9d71b138e22,88a98943282b0b56cf4782c05b8577278f9104d9,refs/heads/master
+[FOUND  ] dry-plugin,2dbb3ca753e569a32659551a4c1a2b100b5bffec,733175d29d4c10d1954692fc3cfb5594825e69be,refs/heads/master
+[FOUND  ] dynamic-axis-plugin,2ff9d591c114c6672ad808ac263affceb25f8aa8,56a25ad0fd425a8779b1c391e26d5ee569fbeaaa,refs/heads/master
+[FOUND  ] ec2-plugin,b14ebd24e4867698f5a8c174b97362f7f023f121,53d256ae988304ebd765bcc33d0b8d47694c1ce7,refs/heads/master
+[FOUND  ] elastic-axis-plugin,19ce48a0b98b4490ef9a9985db5fafdd2444c512,2a9a0a3d98777c287c8dd3a1f6d68fc07645291e,refs/heads/master
+[FOUND  ] email-ext-plugin,b7edb86ccf92d8d5269402d12885fc445cedd159,fc581053bb14e921a63fe68b330a55bb5055c625,refs/heads/master
+[FOUND  ] envinject-lib,4261bc7ac1b3f153a60875328a0691c39394f6f5,c953daea9079607fedb924170e4622da1443a825,refs/heads/master
+[FOUND  ] envinject-plugin,0287bec62dd8af3b9b3801cb908615587446c57d,afc2f6b344ffc2d69f075c06eb4a8a4a12aa0a08,refs/heads/master
+[FOUND  ] extended-choice-parameter-plugin,81259f9ad4a1904e18749a279dd2bdb0d0148897,016e67f1ec4cb96db90264853392a3396b00d421,refs/heads/master
+[FOUND  ] extra-columns-plugin,d2008ba451638fcd07b668aa8483a3561488a6b8,cbaaef99711c8d0a8072021ad2648d16043055f0,refs/heads/master
+[INFO   ] no events in extras-ec2-launcher
+[FOUND  ] extras-executable-war,56d8d2df80edf7ddc519aaa0a0dfa71469833d3b,8800e722a3558c30c84aaf071b7fc0de9508edae,refs/heads/master
+[INFO   ] no events in extras-file-change-monitor
+[INFO   ] no events in extras-jenkins-magic
+[INFO   ] no events in extras-jenkins-tools
+[INFO   ] no events in extras-jenkins-wiki-plugin
+[INFO   ] no events in extras-maven2.1-interceptor
+[INFO   ] no events in extras-nofinal-test
+[INFO   ] no events in extras-tester
+[FOUND  ] extreme-feedback-plugin,44bc629d0bd1d2892f55be87dfb8c9ec6eec2754,3cfb305d5d7ddd3cdcb7be0bba1875285a4473a6,refs/heads/master
+[FOUND  ] gearman-plugin,6599b295122e90ba0deb5dae2be083fd6e079b57,8ab8c5349a129ad591345f497f98782d502e82e6,refs/heads/master
+[FOUND  ] gerrit-trigger-plugin,33d51802953da85c8b2498fdb65c068bff50628d,02957031ce2616242b3a68885c1d3c066145bd13,refs/heads/master
+[FOUND  ] git-chooser-alternative-plugin,81f41e0cea2fce5e5993aa57cf17cb8d4baaefeb,257f945758ec6d73f6386a8070970f670cdd3ef6,refs/heads/master
+[FOUND  ] git-client-plugin,45728be8d247502f72f49cf4dbf60d5e783c040e,50afccd498d57184dfa870b8d1f4d357d5dfe4c8,refs/heads/master
+[FOUND  ] git-plugin,1e894cd9ce564c2ed8e1283b091b1105512efcdd,178af732d8e842d470f88ee0035b806bd506df9b,refs/heads/master
+[FOUND  ] git-plugin,aeacaf8eb031b4aa981113e1aa0dadfbae633847,61dcb7fab9e9a16ae3e54ca0cfc791e1ff0abb12,refs/heads/refactoring
+[FOUND  ] gitbucket-plugin,343e4676fc85577903d618b57a24150904a707fc,6cb6a0352624336a9638ca39d26f7f4958ad7853,refs/heads/master
+[FOUND  ] global-build-stats-plugin,08cf5c61e837ddf8ff860c657d84437ffabbb0ec,dff58df2ea84b93e82c613072809b0b402a5bc89,refs/heads/master
+[FOUND  ] global-variable-string-parameter-plugin,289381235fd2c3a155ccbdee238a1435a23d1936,137bf151eda84d98d57d3d237d75b82709e00686,refs/heads/master
+[FOUND  ] gradle-jpi-plugin,f1e07c0fa8f805a268c585a2f2e9dbf71ebb331e,000f571032d83e8da098459a94cf54098d0afc68,refs/heads/master
+[FOUND  ] grails-plugin,8e1aafa0482272d981f681e7eec8d82221ecfac0,2de4edb57d19ea700392464e5cc65876e0fbfea7,refs/heads/master
+[FOUND  ] greenballs-plugin,75d66877b9110917647d7d70a88219d593707935,1f8e15d41c9e717589671463f6f878239ac11146,refs/heads/master
+[FOUND  ] groovy-postbuild-plugin,9da3392fa067f2a7fa0c0a4dd9b68e4d58beaca1,c4a8e57bd46d0dba232f61ff9f3e61d97524a503,refs/heads/master
+[INFO   ] no events in gssh-plugin
+[FOUND  ] heavy-job-plugin,eb7103c14e2f7388c236945ef4ab5af89897679c,7e8f6e8253394509f75ec9329cd2d510b11e60ef,refs/heads/master
+[FOUND  ] hockeyapp-plugin,7473c4c480f0db5ec65372305d02b07667681dd7,9a9fe5a56f486f02ff29682c9a430db09594b3a4,refs/heads/master
+[FOUND  ] http-request-plugin,68b642c9c13c3cec52124fd4843e8012dc015369,ffcce7d5f88f1ec88362240c90016cdccb230a81,refs/heads/master
+[INFO   ] no events in hudson-clone-workspace-scm-plugin-plugin
+[INFO   ] no events in hue-light-plugin
+[FOUND  ] humbug-plugin,efb94d4c9df631c228f5bd0ac892f2045eab91cc,ad9501dc8fec2056532605cd85681a69e9d3463a,refs/heads/master
+[FOUND  ] instant-messaging-plugin,e6fab5533517ae0ebcc0005e110d2517883516e8,f5be8500c941b567851b217f8dc0af71f5b96409,refs/heads/master
+[FOUND  ] integrity-plugin,c4964dc09728dfbb0f9a11d488188f5ed3fe2b42,351ec6d15a5190811cdddd6afa3c97e42eec9c67,refs/heads/master
+[FOUND  ] ironmq-notifier-plugin,5665a8c9da9029c3e3efcacfc282674cfba12d3d,d6e4751463eb2160b02eac8bc392daf94c4e18c9,refs/heads/master
+[FOUND  ] ivytrigger-plugin,182c380231573ce7de3c43ac81ce9e6afdd2d83c,7af19df63ea3b90ea929e47563c206e9d7d42479,refs/heads/master
+[FOUND  ] jacoco-plugin,1dae7270411f3ed2cab1e4107284280b85ae8f8f,62b24aa50560ac5f86c663947cb8d46a8dd3d9cc,refs/heads/master
+[FOUND  ] jclouds-plugin,2e0d61e36d24a03e016a06e578b11b79f586d1ed,6f184b948ae3ff521341a4fe26133eabbcfb7afc,refs/heads/master
+[FOUND  ] jira-plugin,9c9e780c060784b8ea39c020f2c3518c79e36582,824817dcbbb0e056a975c86db9b6730a73db8a7d,refs/heads/master
+[FOUND  ] job-dsl-plugin,db766af1a39f6617a18a5146912c85b0f89604b9,bc79cd213425757a72224a9883415277bb29eec8,refs/heads/master
+[FOUND  ] job-import-plugin,1edaa53bc6143e8a64f5ffd7e4009de02522304d,e52d913aad5f83cb6c35c6494f15d77c7bce72db,refs/heads/master
+[FOUND  ] job-poll-action-plugin,d6901cc9b9e228950d232867ec557ae3ecebdad9,b12302b36e4c66a33dc7e3f8632a4f271d2006fa,refs/heads/master
+[FOUND  ] jobConfigHistory-plugin,da057b53516eaad79f1adf1160be7ae0fd90f533,2988969690b74f6a45450c4d3e504db564d37fba,refs/heads/master
+[FOUND  ] jquery-plugin,a5b19cf4c689dd92c9ae1c87bbe3af5875c2f4e6,d44eb3845ce2346c3893191e14fd1fc6c467bb6b,refs/heads/master
+[FOUND  ] jquery-ui-plugin,1feb6c143438c806ef71aa6014f4339a1d6427cf,a69e1a70223329a0fc13d8dde4804c5545fff749,refs/heads/master
+[FOUND  ] json-lib,1ac9a85c2daaee459384224e57f90e8e2be9fca4,bd241e6d757e31cc7e8744c3d7867257bb2800af,refs/heads/rebase-2.4
+[FOUND  ] kiuwan-plugin,7266860b59b77df60e28500a8da7a7f6ef4e6178,7f8835f48c40fb2002d09607c9f04a05e65c1fe1,refs/heads/master
+[FOUND  ] label-verifier-plugin,ef0c1d53b5720f51216ebfd6fcb0c375b82f511a,79a91a21c0463092dea2b285f7d9fe46b4163d1b,refs/heads/master
+[FOUND  ] ldap-plugin,33a07f8aa31d23f1f5b1172bc6583a90ca4cc370,e5bc0f9b203871aedf5b0fdbd61a869ca9d6cad9,refs/heads/master
+[FOUND  ] leiningen-plugin,8e4878d8f6c13f8920cfaa241152044e315e7e75,8602ff510a84fc79ca9934662f45c8712349e944,refs/heads/master
+[FOUND  ] lib-annotation-indexer,ea9a35b717de50e540beb832ed74203692c96531,72d8ad1ce5d8dc6f301b6acc7602fbba3a0299dc,refs/heads/master
+[INFO   ] no events in lib-confluence-api
+[INFO   ] no events in lib-embedded-rhino-debugger
+[INFO   ] no events in lib-onepass-blob-tree
+[FOUND  ] lib-task-reactor,8c952b730a923efa3846e2538dc771a406b1a5c1,119000d9bb78e2b8eb268e0a6ca0aff72ecb1ab4,refs/heads/master
+[INFO   ] no events in lib-test-annotations
+[FOUND  ] lib-windows-remote-command,447f4c54e9d0065640a4ac33f50d6a018dd58755,eea90052a360f680d3f3ede2be396acbc58cbdbd,refs/heads/master
+[FOUND  ] literate-cli,5af604701e011a2a33b81b21067f63d83597ac49,0a4f45c3f388a7cef097286aa59bb03968aed59d,refs/heads/master
+[FOUND  ] logfilesizechecker-plugin,5dcbf77ca3891fb17883a90ac8f3db8c77bd1cbb,b3a965940f35cab10032c5ebf9a9536b4adb4521,refs/heads/master
+[FOUND  ] m2-repo-reaper-plugin,a543b2651ce91fdb05cc85a059cb4dfcd08fe306,bedc353c811c7a1c010b191e11a56ed6ec6c818d,refs/heads/master
+[FOUND  ] m2release-plugin,531f00df3c135937479839735eef4e16a08a6114,975899b4b513c96e5692f061f449dd05b7f985f6,refs/heads/master
+[INFO   ] no events in mail-reminder-plugin
+[FOUND  ] mailer-plugin,4f6be2df5dd18dfc404e078377f0b3bc7c01cfb8,41de8d6ada29693073b2c122a367be112ae55663,refs/heads/master
+[FOUND  ] matrix-auth-plugin,bf7b406d37a8d2e5ac5e7092e5eeefb9a00a7c3d,6061ce2acbec9010e83a7373270f8e91be6be68a,refs/heads/master
+[INFO   ] no events in matrix-checkout-strategies-plugin
+[INFO   ] no events in matrix-combinations-plugin
+[FOUND  ] maven-hpi-plugin,b06aa67f917cecb618bd6dee27b849a161d80fa9,c2991689818df0339193ca1810ee25fed38a499b,refs/heads/master
+[FOUND  ] maven-info-plugin,81864fa6b03dd9e3b32a22c6daed12d7bb14249e,babc0f58d29881909dcfadd181221b1621514942,refs/heads/master
+[INFO   ] no events in maven-license-plugin
+[INFO   ] no events in maven-repository-plugin
+[FOUND  ] mercurial-plugin,ebb6ee3000da6bd6e24bd3c88a008048044caf17,66352e971278ec947679fb83d20e9aea49320610,refs/heads/master
+[FOUND  ] mesos-plugin,78047b5b8900dd82cbb8d27e09569b6fc8c464f5,57793fa61085ec65ab6358649cb76e3f9c863f3e,refs/heads/master
+[FOUND  ] metadata-plugin,2842fd93fd1f028a93c1583c18f78516fb4ccec2,856b69bc393d990d8527b065031183fb21cb5a92,refs/heads/master
+[FOUND  ] mock-security-realm-plugin,396be54cd5dc9e59800fad8dfedf2ad8fea6ebed,b6fa741d86f9281587f1973c6a6a7f2f2200cf8b,refs/heads/master
+[FOUND  ] msbuild-plugin,d04901646d90148d3df1d7e0b5bd87af45141974,b1b89b77e0d8af8c4c4cff63a50d1c98e803e8b8,refs/heads/master
+[FOUND  ] naginator-plugin,9cc5558ce9833e72343845132870ee37577542d4,1659e85e387056e6ae44f4a24e05c869d026dd09,refs/heads/master
+[FOUND  ] nerrvana-plugin,9738430c4d6faf9405b80082f652b46786912d8a,802d8e3b2f57b0b926eaf1a6bb01898ab2ac5fb2,refs/heads/master
+[FOUND  ] nested-view-plugin,607f54ce8a97feb466e4814cdf672e5cacf8a7ed,518a384faa787c6b82c0d78c02117509b07834f5,refs/heads/master
+[INFO   ] no events in netx
+[FOUND  ] next-build-number-plugin,427244e5f0e9573c0dc695d63d05adf85ba81712,95142926d05b3f5da12da8f759d4ed748b38cde2,refs/heads/master
+[FOUND  ] next-executions-plugin,321606523befee98844c9ade8025189aa885ce96,f6c8b0b1b4f09c168a598c6f157eba838d5f7af6,refs/heads/master
+[INFO   ] no events in nightly-dilbert-plugin
+[FOUND  ] parameterized-trigger-plugin,bb32d967c9182281898b871c13dcb37b838c8082,7827fd5298ebed7744d6538976332d69d5be4fe1,refs/heads/master
+[FOUND  ] perforce-plugin,ae5b0109a73a999976c134c98c0ccfb7af9335f2,0b27b6fafbffe0d30909734ecb0a94d3633ea656,refs/heads/master
+[FOUND  ] perforce-plugin,67323c629743ad48db6df809b5fef8f45a6e6609,fc3c580c8677c27a458b65c5115bdeb87f9f878b,refs/heads/multiple-scm-instatination-fix
+[FOUND  ] performance-plugin,d23e2b3274397038437403ebf35ddc65fe0a9889,4f456a4ce9526e5b0fe7abe0077aa6405d36f3fb,refs/heads/master
+[FOUND  ] persona-plugin,58ea0d9ca16ece310e2002100649aab919a33333,3a3122d486019063bafc1964baa087a55a0ac5da,refs/heads/master
+[FOUND  ] pitmutation-plugin,fc6197f1b211606c8108c6c875daa98a126c312c,0098090aad77d3ed652a539c36ebb902916fcd3d,refs/heads/master
+[FOUND  ] pitmutation-plugin,70e0ba9921d99cacc2dfe1d87275d1b0776e6f66,5a253ab2652401da87c8705380c09e442ef1296b,refs/heads/generic-metrics
+[FOUND  ] plain-credentials-plugin,5a6c6eecaa56e8bd0517d648b31569dcd3e4e22f,7b1b3e17ec8ea93fe22f84a1538854887011e3a7,refs/heads/master
+[INFO   ] no events in plugin-blekkoPanel
+[FOUND  ] plugin-compat-tester,a5c9be36ea6d4361a588e09fe8fe3984677ee8ee,db23f04ea32f8017a1530f73fa02e5d206f7d7ad,refs/heads/master
+[FOUND  ] postbuildscript-plugin,fafb95f19fd9b602a4031f1ec4fb69b1024c7851,3975f051919c2324ee6849aaff522c7621626ac8,refs/heads/master
+[FOUND  ] promoted-builds-plugin,bfe2f062786427eee6a76ffdc2121ed394dd6bcb,770c7bbb69a2702011a70ab4707f8eb745a678a0,refs/heads/master
+[FOUND  ] prqa-plugin,fe15a76187a70c43dcb204fc5ec64987b8132499,2f5e05ed242a5a30bac9b649516b69d15951d1f3,refs/heads/1.2.1
+[FOUND  ] prqa-plugin,a7df762da4141e769a989dee771615ddb0aadf2f,5cb94cff73be7f11e1c21b2da3bedac6d46b2bbc,refs/heads/master
+[FOUND  ] publish-over-cifs-plugin,5740aec2cb202f44fc8be5b08919408b8166609b,b07933909341ba95cbf5ca31c8b6b195c9383766,refs/heads/master
+[INFO   ] no events in puppet-haproxy
+[FOUND  ] puppet-jenkins,b0b5f5e84f466bcd925a89e81d91d9923b439094,7070b69f88f9e1b12104d0c0ea98f6338630c0b9,refs/heads/master
+[INFO   ] no events in pure-coverage-plugin
+[FOUND  ] radiatorview-plugin,ceb0d341fc9ac8732ff90937755306e24279019e,ce2ad77ffc3df2c7bcc00226fdd852cd6db6b6ed,refs/heads/master
+[FOUND  ] rapiddeploy-plugin,c02347c59b66256f86b827e2a3ad482caf53350b,20b6b10a78cadca086f4074271938a36907c7098,refs/heads/master
+[INFO   ] no events in redmine-plugin-1
+[FOUND  ] release-plugin,b45ef23ab8714cd03a2db69fd105bc9d8a3b77ab,6e0e47a308f25acf7e5acb668e4bbcb1e97ddf31,refs/heads/master
+[FOUND  ] repo-plugin,42bc86d48dbfdbebce238262cc2e1999e3947fab,8e52f38771c3163ec67ae32a6d35364e720ef3a8,refs/heads/master
+[INFO   ] no events in rhapsodybuilder-plugin
+[FOUND  ] rich-text-publisher-plugin,71c57d1c7d7e78dd892ded6a765daf564b028860,e54a7c9eaaac981e727beeea52b5c473528e9bbe,refs/heads/master
+[FOUND  ] robot-plugin,8974d0c4c75d6d56bd681e1fb14c8df28f82ecea,4cda943933534c32721d8f7e74092303530a08af,refs/heads/master
+[INFO   ] no events in rqm-plugin
+[FOUND  ] run-condition-plugin,357f146d11705b8c7c5c1f389daf631c657c56a4,cc194ecfd14c0dfc320b1124fe11e31061a1aa77,refs/heads/master
+[FOUND  ] rvm-plugin,80bcae9596dd6c0c806a8955006b15934c07c184,ad4e565fd03ab5dcc995e6c9ce6b83fab670b70f,refs/heads/master
+[FOUND  ] scm-api-plugin,e10763d493871198d1e371d6a12700e626752cce,fa803cdba652a72a822e94d90572ea2a8db33ac3,refs/heads/master
+[FOUND  ] scm2job-plugin,22ce13ebceeb5639fb2472c005e3289c2451234c,32f5d0afa359bead296be6fa76834a311c3923f6,refs/heads/master
+[FOUND  ] scoring-load-balancer-plugin,0ca553b933521ba82746a491b3c29d8c6cc2ae89,634609e0e7ffe754f1ec3fed8871a89f7403508b,refs/heads/master
+[FOUND  ] script-scm-plugin,42e29d32e0302c891371346f4ac046e6ae104c80,cd96e7fe18662d577611ae66f251c69d666f1494,refs/heads/master
+[FOUND  ] selenium-axis-plugin,bfa43775fe9f898f2e2718ca75b07c3dead6cdb7,7af2b6bf7bfe0981bce0479fdc2f8c4b66e650a4,refs/heads/master
+[FOUND  ] selenium-builder-plugin,35a73ad0aea7ae9d2002298f5b90902630566f39,0387d9c11a058e770e9e3f720dd8fe44141bb6c0,refs/heads/master
+[FOUND  ] selenium-tests,b7a7de1d838d5f88f73bbfbb280f19739c16e420,9489af754051ad1f7532f0cc5ce568146002810e,refs/heads/master
+[FOUND  ] skype-im-plugin,7e81d63c1f72d2c6a7ff970c6fd7fd1c80f23470,4dad46bcce9f0f676852a024bab3dfd8ecc527ae,refs/heads/v2dev
+[FOUND  ] skytap-cloud-plugin,56714321e8175522134162c1a63d51baa29f0959,1c8a2b71ad946e6a23aaab688c77ff51c1c3a31a,refs/heads/master
+[FOUND  ] smartfrog-plugin,f6808ab70a9ecb9d5c166a837bfb054237cf562a,8d97ee1d20aa384a4c1d1da2e493b4eb6c8d9bf6,refs/heads/master
+[FOUND  ] sms-plugin,97fb324cfe59e6933f3388f265e17896d7b27929,233faec0409d0f2e0ac26d8513936a8380a573a3,refs/heads/master
+[FOUND  ] sounds-plugin,cd32e83896cde08e5e4ed36d8af1ee517111da0b,e19b5eaec8b2fcf2f988770dec3df23b99f1d5b0,refs/heads/master
+[INFO   ] no events in sparkle-appcast-plugin
+[FOUND  ] ssh-agent-plugin,651d7863a06c1771511a8c33e18f393504c0c784,9aa6ae13ee8fc5fe49c9f3f92b3c87fd38cd94ef,refs/heads/master
+[FOUND  ] ssh-credentials-plugin,6f6837d9eede940fa82f197f9afbf1d3a61f5ae8,8f45e8a15c0af28c7664047ad842f98ace4ba9d5,refs/heads/master
+[FOUND  ] ssh-slaves-plugin,be4fed687e84eb4bb4f9de21e8933695084677de,823e66f530eed3b25c20dbc9c7f9c98bfb07195a,refs/heads/master
+[FOUND  ] sshd-module,c18c8c1d7c30508d581ca004d7b09b38f5d5a289,96c25a4f5d64e70bc74d7dc12e1518a7a66f0582,refs/heads/master
+[FOUND  ] starteam-plugin,700212895d5826a53728db14bd69bd09cbe0010e,61a4ecbc530e32d33fc51b2c9826ed38a0b2032f,refs/heads/master
+[INFO   ] no events in startup-scm-poll-plugin
+[FOUND  ] stashnotifier-plugin,b65b0d99111bbd14b5a84ffcf260526b19724533,28fc04fd638b93dd7e6de5046a0235d039e4ab63,refs/heads/develop
+[FOUND  ] subversion-plugin,aae02ab4f4b4ef88c3525c8761236926f6471358,05127526f126edc072b0b9d074046b9eaca788fa,refs/heads/refactoring
+[FOUND  ] subversion-plugin,b5cd30370ef40439c37b7350810d3469b9a17fc1,74b0f9ec5e2377ae22123e17f6852eff84d1514a,refs/heads/master
+[FOUND  ] suppress-stack-trace-plugin,b6c7df3faa92648f3f631f2cae3796e373fc5ae4,dea27c5db3eda98ffea7d7fa90bbc093b316b5a9,refs/heads/master
+[INFO   ] no events in svn-global-auth-provider-plugin
+[FOUND  ] swarm-plugin,533549455dd57cf493f4a2f6867b9123c2744257,9d41c1ef435da8a538d9900ea38ad0798f20fa5c,refs/heads/master
+[FOUND  ] synergy_scm-plugin,581db6982eaccd46d3eb0474af175fc5c2dcdf96,39e88838a3087d688e94a1a933a5b1ef1817a5c7,refs/heads/master
+[FOUND  ] tap-plugin,e5c61ff4fc20b62245fc4ab7a56086db5a364ae3,bb0f9d1878aff4d21146e52c97da6c907a788c45,refs/heads/master
+[FOUND  ] teamconcert-plugin,90bf2549bfc58593960ea577429dc3055cd34357,dd788fc5432d933093efdd88971a93f5ff20f935,refs/heads/master
+[INFO   ] no events in testbed-ant-sample
+[INFO   ] no events in testbed-anttest-sample
+[FOUND  ] testlink-plugin,344c91dc0302af7831e90a20c0a8decb0c872cd6,252bd40201af29ee3d5eab57a8e262b23be74aa7,refs/heads/master
+[FOUND  ] tfs-plugin,f61f3fc4a395c40196fd51838bd4dc07b87bd139,12b7198ce3b9ca2c940f3d995e64c481b22069b6,refs/heads/master
+[FOUND  ] thin-backup-plugin,0900a7ba03c02e9d9cf54765eb0da385b24d717c,7e364ee6cfceedbda919f23d3d6386dd4b3810db,refs/heads/master
+[FOUND  ] throttle-concurrent-builds-plugin,1bc16cd4c9e41fdda65d713d02723c909601c4b2,e62f6b15d79bd066cc28bd7a329f8d40ceb16f70,refs/heads/master
+[FOUND  ] tikal-multijob-plugin,9c94ebbcde61f979e0d36b8b421e343f53d6b1aa,f9336d97b8ca64c04355e00c30cc611550c31d35,refs/heads/master
+[FOUND  ] timestamper-plugin,ce1121bbc211b0917f936ad18b5252521322cf15,830d25b5fe14014db0b683577df103c1c36d1fc6,refs/heads/master
+[FOUND  ] token-macro-plugin,bdad17691583af720856a08c979aa2b56fe83439,c08666135eb653ed23577f3c3aba6eb35b5b9b2c,refs/heads/master
+[FOUND  ] transifex-plugin,327c4e4e6a8fed27047690699c71df548c6b1813,6463c81efa00d4ec7e8dd2585a3a7250d91cc5c0,refs/heads/gh-pages
+[FOUND  ] transifex-plugin,3f01925b010e7a8af6e2d09e18318d7294b67780,c085d0e4d03434cfc86cc90d5ba644cd9f29ebb0,refs/heads/master
+[FOUND  ] translation-plugin,8d8b7d96098a4df4c65a3054ec0f02ef6b983116,dd7398a72f280210102401a3a1cd819b2eeef554,refs/heads/master
+[FOUND  ] trilead-ssh2,a1be0fac0dcfd11e65d6cf7b5790e5136ce48353,531c18ab5ea74876f1d4126372bbbcca832b43c6,refs/heads/master
+[FOUND  ] unity3d-plugin,f10a9545f4fc8394963128fce76b8eaf33837dd2,6d88930f27bb99d0884477bf615792560cb77e17,refs/heads/master
+[INFO   ] no events in updatejob
+[INFO   ] no events in user-builds-starter-plugin
+[FOUND  ] veracode-scanner-plugin,a4628f14b7e06fa1d75a357f31b516d58b4348a4,c61e91f7522064ae4e46f8d299ed76bb67b4127a,refs/heads/master
+[FOUND  ] view-job-filters-plugin,6f27fa9fb9bb5c1a7905a538907185f519d16f8f,caafa1e7cf63c95782e54b4272d2ecb3fff99f5f,refs/heads/master
+[FOUND  ] virtualbox-plugin,eaec184f55b192d61a3100ab6bb35bac8aaee72b,437285932f72dae4ab5e8f33b68745ed0364a513,refs/heads/master
+[INFO   ] no events in visualworks-store-plugin
+[FOUND  ] vsphere-cloud-plugin,447894ec1219f4fcacda1d4323cff1cfa92b6143,ae67fd481c2bf998b364449b8f92da28bf7d0457,refs/heads/master
+[FOUND  ] vstestrunner-plugin,7e93f95118ef324e83a6fdf5bff9fd659f7eb1d8,25b6e0f61441cbe8832e8d76c51bc2f8cb1f2ad5,refs/heads/master
+[FOUND  ] walldisplay-plugin,16f60e74be0e5bda77d5bb628b19002f3cd97016,264b084fba3f008b88bee3591a5e30d18e44c7c0,refs/heads/master
+[FOUND  ] warnings-plugin,a82c6219fbd2bf9dea4bcce38e252d773078d415,264a089f84ab46c1f07ce228cf17b176d225e184,refs/heads/master
+[FOUND  ] weblogic-deployer-plugin,69ceaa03d492ae0601119ca599116a3863adb858,bfaf3eef68d8fa6e942544af4b87ba6b3e7a6f4e,refs/heads/master
+[WARNING] events don't go back far enough: websphere-deployer-plugin
+[FOUND  ] winstone,ddcbbd449361ec033c90de77ead59fb96ae18433,91a5f3b9da0e579bc08e00b947d63a4d56cbfe1b,refs/heads/master
+[FOUND  ] wix-plugin,ed6ca5715f95a121ab9dc743b3d6d8f58dbf35e3,322193cfd283dc2014fc9fc78bdb17c3e8faaa68,refs/heads/master
+[FOUND  ] ws-cleanup-plugin,62cf1a7825a0edda606c43606a5e696850e7f3b1,10cb090216b5ded576be36faaaa200587973b693,refs/heads/master
+[FOUND  ] xcode-plugin,b48316fc45ff5069c1672ca5be1956587b185d19,56844520a03811b4589635daf8f9d5eec73e24d7,refs/heads/master
+[FOUND  ] xstream,12bfeb15bceccfa418ac78335d9589bed1da1039,f669b433e02a98d8527c3f9e8a35873cb2a17700,refs/heads/master
+[FOUND  ] xtrigger-lib,bcca5571d3911b04e4abbd2eef503d2cb3b921a1,69a01290382afef09ca5231921bc0dd533a6e2ca,refs/heads/master
+[FOUND  ] xunit-plugin,534c6f3daca50d9d28a5fa92f3e445de9858f5a3,fc188b1224fa0c6db602779afb740893c6a2ca33,refs/heads/master
+[FOUND  ] xvfb-plugin,db186f92ec4b65d1efe9f7412d905c0b3c67d9b2,1666cfff25fcac0cc1e42f3eecd6b49183dff8a2,refs/heads/master
+[FOUND  ] xvnc-plugin,e891d20a7d7453a718abe60a56436c383f9bb503,15a2eb1b43e2112fbf9583933760cd414a926e17,refs/heads/master
+

@@ -27,7 +27,7 @@ class Tag {
 def fromGitHub = [:]
 
 boolean firstLine = true;
-new File("jenkinsci_restore.csv").eachLine { line ->
+new File("../jenkinsci_restore.csv").eachLine { line ->
     if (firstLine) {
         firstLine = false;
         return;
@@ -36,7 +36,7 @@ new File("jenkinsci_restore.csv").eachLine { line ->
     fromGitHub[tokens[0]] = new Tag(before:tokens[1], after:tokens[2])
 }
 
-new File("events.txt").eachLine { line ->
+new File("../events.txt").eachLine { line ->
     if (!line.startsWith("[FOUND"))
         return;
     line = line.substring(10)
@@ -56,7 +56,7 @@ new File("events.txt").eachLine { line ->
         if (t!=gh) {
             println "GitHub:${gh}\tKohsuke:${t}\t${repo}"
             if (!Tag.match(t.before,gh.before)) {
-                println " ***** ";
+                println " ^^^ discrepancy on the original commit ^^^ ";
             }
         }
     } else {

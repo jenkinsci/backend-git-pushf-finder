@@ -1,0 +1,1882 @@
++ for f in '*'
++ echo accurev-plugin.git
+accurev-plugin.git
++ pushd accurev-plugin.git
+~/ws/jenkins/20131111-recovery/repos/accurev-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/accurev-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo analysis-core-plugin.git
+analysis-core-plugin.git
++ pushd analysis-core-plugin.git
+~/ws/jenkins/20131111-recovery/repos/analysis-core-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/analysis-core-plugin.git recovery:master
+To git@github.com:jenkinsci/analysis-core-plugin.git
+   04a5bf7..ee0137d  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo antexec-plugin.git
+antexec-plugin.git
++ pushd antexec-plugin.git
+~/ws/jenkins/20131111-recovery/repos/antexec-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/antexec-plugin.git recovery:master
+To git@github.com:jenkinsci/antexec-plugin.git
+   3f8b343..a26ab90  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo artifactory-plugin.git
+artifactory-plugin.git
++ pushd artifactory-plugin.git
+~/ws/jenkins/20131111-recovery/repos/artifactory-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/artifactory-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo associated-files-plugin.git
+associated-files-plugin.git
++ pushd associated-files-plugin.git
+~/ws/jenkins/20131111-recovery/repos/associated-files-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/associated-files-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo audit2db-plugin.git
+audit2db-plugin.git
++ pushd audit2db-plugin.git
+~/ws/jenkins/20131111-recovery/repos/audit2db-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/audit2db-plugin.git recovery:master
+To git@github.com:jenkinsci/audit2db-plugin.git
+   6b2446b..faf3385  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo audit-trail-plugin.git
+audit-trail-plugin.git
++ pushd audit-trail-plugin.git
+~/ws/jenkins/20131111-recovery/repos/audit-trail-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/audit-trail-plugin.git recovery:master
+To git@github.com:jenkinsci/audit-trail-plugin.git
+   e6b3357..105373b  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo backend-pull-request-greeter.git
+backend-pull-request-greeter.git
++ pushd backend-pull-request-greeter.git
+~/ws/jenkins/20131111-recovery/repos/backend-pull-request-greeter.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/backend-pull-request-greeter.git recovery:master
+To git@github.com:jenkinsci/backend-pull-request-greeter.git
+   c5087d6..a1f7b15  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo beaker-builder-plugin.git
+beaker-builder-plugin.git
++ pushd beaker-builder-plugin.git
+~/ws/jenkins/20131111-recovery/repos/beaker-builder-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/beaker-builder-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo branch-api-plugin.git
+branch-api-plugin.git
++ pushd branch-api-plugin.git
+~/ws/jenkins/20131111-recovery/repos/branch-api-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/branch-api-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo build-flow-plugin.git
+build-flow-plugin.git
++ pushd build-flow-plugin.git
+~/ws/jenkins/20131111-recovery/repos/build-flow-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/build-flow-plugin.git recovery:master
+To git@github.com:jenkinsci/build-flow-plugin.git
+   305af7f..4461ead  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo buildgraph-view.git
+buildgraph-view.git
++ pushd buildgraph-view.git
+~/ws/jenkins/20131111-recovery/repos/buildgraph-view.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/buildgraph-view.git recovery:master
+To git@github.com:jenkinsci/buildgraph-view.git
+   467286f..4a6eb7f  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo build-pipeline-plugin.git
+build-pipeline-plugin.git
++ pushd build-pipeline-plugin.git
+~/ws/jenkins/20131111-recovery/repos/build-pipeline-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/build-pipeline-plugin.git recovery:master
+To git@github.com:jenkinsci/build-pipeline-plugin.git
+   64db20c..220610b  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo build-timeout-plugin.git
+build-timeout-plugin.git
++ pushd build-timeout-plugin.git
+~/ws/jenkins/20131111-recovery/repos/build-timeout-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/build-timeout-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo buildtriggerbadge-plugin.git
+buildtriggerbadge-plugin.git
++ pushd buildtriggerbadge-plugin.git
+~/ws/jenkins/20131111-recovery/repos/buildtriggerbadge-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/buildtriggerbadge-plugin.git recovery:master
+To git@github.com:jenkinsci/buildtriggerbadge-plugin.git
+   4f33890..0ecad1e  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo bytecode-compatibility-transformer.git
+bytecode-compatibility-transformer.git
++ pushd bytecode-compatibility-transformer.git
+~/ws/jenkins/20131111-recovery/repos/bytecode-compatibility-transformer.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/bytecode-compatibility-transformer.git recovery:master
+To git@github.com:jenkinsci/bytecode-compatibility-transformer.git
+   a62e389..9884d93  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo ci-game-plugin.git
+ci-game-plugin.git
++ pushd ci-game-plugin.git
+~/ws/jenkins/20131111-recovery/repos/ci-game-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/ci-game-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo clearcase-plugin.git
+clearcase-plugin.git
++ pushd clearcase-plugin.git
+~/ws/jenkins/20131111-recovery/repos/clearcase-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/clearcase-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo clearcase-ucm-plugin.git
+clearcase-ucm-plugin.git
++ pushd clearcase-ucm-plugin.git
+~/ws/jenkins/20131111-recovery/repos/clearcase-ucm-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/clearcase-ucm-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo cloudbees-folder-plugin.git
+cloudbees-folder-plugin.git
++ pushd cloudbees-folder-plugin.git
+~/ws/jenkins/20131111-recovery/repos/cloudbees-folder-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/cloudbees-folder-plugin.git recovery:master
+To git@github.com:jenkinsci/cloudbees-folder-plugin.git
+   2af4a8b..f36d4d6  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo cloudbees-plugin-gateway.git
+cloudbees-plugin-gateway.git
++ pushd cloudbees-plugin-gateway.git
+~/ws/jenkins/20131111-recovery/repos/cloudbees-plugin-gateway.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/cloudbees-plugin-gateway.git recovery:master
+To git@github.com:jenkinsci/cloudbees-plugin-gateway.git
+   f8b6301..07c9076  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo cloudtest-plugin.git
+cloudtest-plugin.git
++ pushd cloudtest-plugin.git
+~/ws/jenkins/20131111-recovery/repos/cloudtest-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/cloudtest-plugin.git recovery:master
+To git@github.com:jenkinsci/cloudtest-plugin.git
+   5627e28..4168346  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo clover-plugin.git
+clover-plugin.git
++ pushd clover-plugin.git
+~/ws/jenkins/20131111-recovery/repos/clover-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/clover-plugin.git recovery:master
+To git@github.com:jenkinsci/clover-plugin.git
+   b590403..a9861ae  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo cobertura-plugin.git
+cobertura-plugin.git
++ pushd cobertura-plugin.git
+~/ws/jenkins/20131111-recovery/repos/cobertura-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/cobertura-plugin.git recovery:master
+To git@github.com:jenkinsci/cobertura-plugin.git
+   d04c87d..bac4f17  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo collabnet-plugin.git
+collabnet-plugin.git
++ pushd collabnet-plugin.git
+~/ws/jenkins/20131111-recovery/repos/collabnet-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/collabnet-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo collapsing-console-sections-plugin.git
+collapsing-console-sections-plugin.git
++ pushd collapsing-console-sections-plugin.git
+~/ws/jenkins/20131111-recovery/repos/collapsing-console-sections-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/collapsing-console-sections-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo compact-columns-plugin.git
+compact-columns-plugin.git
++ pushd compact-columns-plugin.git
+~/ws/jenkins/20131111-recovery/repos/compact-columns-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/compact-columns-plugin.git recovery:master
+To git@github.com:jenkinsci/compact-columns-plugin.git
+   a303a24..7c68839  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo compress-artifacts-plugin.git
+compress-artifacts-plugin.git
++ pushd compress-artifacts-plugin.git
+~/ws/jenkins/20131111-recovery/repos/compress-artifacts-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/compress-artifacts-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo conditional-buildstep-plugin.git
+conditional-buildstep-plugin.git
++ pushd conditional-buildstep-plugin.git
+~/ws/jenkins/20131111-recovery/repos/conditional-buildstep-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/conditional-buildstep-plugin.git recovery:master
+To git@github.com:jenkinsci/conditional-buildstep-plugin.git
+ ! [rejected]        recovery -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:jenkinsci/conditional-buildstep-plugin.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo config-file-provider-plugin.git
+config-file-provider-plugin.git
++ pushd config-file-provider-plugin.git
+~/ws/jenkins/20131111-recovery/repos/config-file-provider-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/config-file-provider-plugin.git recovery:master
+To git@github.com:jenkinsci/config-file-provider-plugin.git
+   b926025..7ecd9f9  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo configurationslicing-plugin.git
+configurationslicing-plugin.git
++ pushd configurationslicing-plugin.git
+~/ws/jenkins/20131111-recovery/repos/configurationslicing-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/configurationslicing-plugin.git recovery:master
+To git@github.com:jenkinsci/configurationslicing-plugin.git
+   eefdd37..ded8666  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo copyartifact-plugin.git
+copyartifact-plugin.git
++ pushd copyartifact-plugin.git
+~/ws/jenkins/20131111-recovery/repos/copyartifact-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/copyartifact-plugin.git recovery:master
+To git@github.com:jenkinsci/copyartifact-plugin.git
+ ! [rejected]        recovery -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:jenkinsci/copyartifact-plugin.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo copy-project-link-plugin.git
+copy-project-link-plugin.git
++ pushd copy-project-link-plugin.git
+~/ws/jenkins/20131111-recovery/repos/copy-project-link-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/copy-project-link-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo copy-to-slave-plugin.git
+copy-to-slave-plugin.git
++ pushd copy-to-slave-plugin.git
+~/ws/jenkins/20131111-recovery/repos/copy-to-slave-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/copy-to-slave-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo cppcheck-plugin.git
+cppcheck-plugin.git
++ pushd cppcheck-plugin.git
+~/ws/jenkins/20131111-recovery/repos/cppcheck-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/cppcheck-plugin.git recovery:master
+To git@github.com:jenkinsci/cppcheck-plugin.git
+   5b6922c..d018417  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo credentials-plugin.git
+credentials-plugin.git
++ pushd credentials-plugin.git
+~/ws/jenkins/20131111-recovery/repos/credentials-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/credentials-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo crowd2-plugin.git
+crowd2-plugin.git
++ pushd crowd2-plugin.git
+~/ws/jenkins/20131111-recovery/repos/crowd2-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/crowd2-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo crowd-plugin.git
+crowd-plugin.git
++ pushd crowd-plugin.git
+~/ws/jenkins/20131111-recovery/repos/crowd-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/crowd-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo customtools-plugin.git
+customtools-plugin.git
++ pushd customtools-plugin.git
+~/ws/jenkins/20131111-recovery/repos/customtools-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/customtools-plugin.git recovery:master
+To git@github.com:jenkinsci/customtools-plugin.git
+   4128bbe..99eaa76  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo cvsclient.git
+cvsclient.git
++ pushd cvsclient.git
+~/ws/jenkins/20131111-recovery/repos/cvsclient.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/cvsclient.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo cvs-plugin.git
+cvs-plugin.git
++ pushd cvs-plugin.git
+~/ws/jenkins/20131111-recovery/repos/cvs-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/cvs-plugin.git recovery:master
+To git@github.com:jenkinsci/cvs-plugin.git
+   2f35d9d..eb2a491  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo dashboard-view-plugin.git
+dashboard-view-plugin.git
++ pushd dashboard-view-plugin.git
+~/ws/jenkins/20131111-recovery/repos/dashboard-view-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/dashboard-view-plugin.git recovery:master
+To git@github.com:jenkinsci/dashboard-view-plugin.git
+   48c29c6..dbcf1ac  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo datical-db-plugin.git
+datical-db-plugin.git
++ pushd datical-db-plugin.git
+~/ws/jenkins/20131111-recovery/repos/datical-db-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/datical-db-plugin.git recovery:master
+To git@github.com:jenkinsci/datical-db-plugin.git
+ ! [rejected]        recovery -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:jenkinsci/datical-db-plugin.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo dependency-check-plugin.git
+dependency-check-plugin.git
++ pushd dependency-check-plugin.git
+~/ws/jenkins/20131111-recovery/repos/dependency-check-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/dependency-check-plugin.git recovery:master
+To git@github.com:jenkinsci/dependency-check-plugin.git
+   eba7b2e..5254918  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo deploy-plugin.git
+deploy-plugin.git
++ pushd deploy-plugin.git
+~/ws/jenkins/20131111-recovery/repos/deploy-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/deploy-plugin.git recovery:master
+To git@github.com:jenkinsci/deploy-plugin.git
+   a9add4e..1e0a0fa  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo disable-failed-job-plugin.git
+disable-failed-job-plugin.git
++ pushd disable-failed-job-plugin.git
+~/ws/jenkins/20131111-recovery/repos/disable-failed-job-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/disable-failed-job-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo disk-usage-plugin.git
+disk-usage-plugin.git
++ pushd disk-usage-plugin.git
+~/ws/jenkins/20131111-recovery/repos/disk-usage-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/disk-usage-plugin.git recovery:master
+To git@github.com:jenkinsci/disk-usage-plugin.git
+ ! [rejected]        recovery -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:jenkinsci/disk-usage-plugin.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo doclinks-plugin.git
+doclinks-plugin.git
++ pushd doclinks-plugin.git
+~/ws/jenkins/20131111-recovery/repos/doclinks-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/doclinks-plugin.git recovery:master
+To git@github.com:jenkinsci/doclinks-plugin.git
+   88a9894..3369f4c  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo dry-plugin.git
+dry-plugin.git
++ pushd dry-plugin.git
+~/ws/jenkins/20131111-recovery/repos/dry-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/dry-plugin.git recovery:master
+To git@github.com:jenkinsci/dry-plugin.git
+   733175d..2dbb3ca  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo dynamic-axis-plugin.git
+dynamic-axis-plugin.git
++ pushd dynamic-axis-plugin.git
+~/ws/jenkins/20131111-recovery/repos/dynamic-axis-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/dynamic-axis-plugin.git recovery:master
+To git@github.com:jenkinsci/dynamic-axis-plugin.git
+   56a25ad..2ff9d59  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo ec2-plugin.git
+ec2-plugin.git
++ pushd ec2-plugin.git
+~/ws/jenkins/20131111-recovery/repos/ec2-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/ec2-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo elastic-axis-plugin.git
+elastic-axis-plugin.git
++ pushd elastic-axis-plugin.git
+~/ws/jenkins/20131111-recovery/repos/elastic-axis-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/elastic-axis-plugin.git recovery:master
+To git@github.com:jenkinsci/elastic-axis-plugin.git
+   2a9a0a3..19ce48a  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo email-ext-plugin.git
+email-ext-plugin.git
++ pushd email-ext-plugin.git
+~/ws/jenkins/20131111-recovery/repos/email-ext-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/email-ext-plugin.git recovery:master
+To git@github.com:jenkinsci/email-ext-plugin.git
+ ! [rejected]        recovery -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:jenkinsci/email-ext-plugin.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo envinject-lib.git
+envinject-lib.git
++ pushd envinject-lib.git
+~/ws/jenkins/20131111-recovery/repos/envinject-lib.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/envinject-lib.git recovery:master
+To git@github.com:jenkinsci/envinject-lib.git
+   c953dae..4261bc7  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo envinject-plugin.git
+envinject-plugin.git
++ pushd envinject-plugin.git
+~/ws/jenkins/20131111-recovery/repos/envinject-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/envinject-plugin.git recovery:master
+To git@github.com:jenkinsci/envinject-plugin.git
+   afc2f6b..0287bec  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo extended-choice-parameter-plugin.git
+extended-choice-parameter-plugin.git
++ pushd extended-choice-parameter-plugin.git
+~/ws/jenkins/20131111-recovery/repos/extended-choice-parameter-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/extended-choice-parameter-plugin.git recovery:master
+To git@github.com:jenkinsci/extended-choice-parameter-plugin.git
+   85c5ef6..81259f9  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo extra-columns-plugin.git
+extra-columns-plugin.git
++ pushd extra-columns-plugin.git
+~/ws/jenkins/20131111-recovery/repos/extra-columns-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/extra-columns-plugin.git recovery:master
+To git@github.com:jenkinsci/extra-columns-plugin.git
+ ! [rejected]        recovery -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:jenkinsci/extra-columns-plugin.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo extras-executable-war.git
+extras-executable-war.git
++ pushd extras-executable-war.git
+~/ws/jenkins/20131111-recovery/repos/extras-executable-war.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/extras-executable-war.git recovery:master
+To git@github.com:jenkinsci/extras-executable-war.git
+   8800e72..56d8d2d  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo extreme-feedback-plugin.git
+extreme-feedback-plugin.git
++ pushd extreme-feedback-plugin.git
+~/ws/jenkins/20131111-recovery/repos/extreme-feedback-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/extreme-feedback-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo gearman-plugin.git
+gearman-plugin.git
++ pushd gearman-plugin.git
+~/ws/jenkins/20131111-recovery/repos/gearman-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/gearman-plugin.git recovery:master
+To git@github.com:jenkinsci/gearman-plugin.git
+   8ab8c53..6599b29  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo gerrit-trigger-plugin.git
+gerrit-trigger-plugin.git
++ pushd gerrit-trigger-plugin.git
+~/ws/jenkins/20131111-recovery/repos/gerrit-trigger-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/gerrit-trigger-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo gitbucket-plugin.git
+gitbucket-plugin.git
++ pushd gitbucket-plugin.git
+~/ws/jenkins/20131111-recovery/repos/gitbucket-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/gitbucket-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo git-chooser-alternative-plugin.git
+git-chooser-alternative-plugin.git
++ pushd git-chooser-alternative-plugin.git
+~/ws/jenkins/20131111-recovery/repos/git-chooser-alternative-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/git-chooser-alternative-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo git-client-plugin.git
+git-client-plugin.git
++ pushd git-client-plugin.git
+~/ws/jenkins/20131111-recovery/repos/git-client-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/git-client-plugin.git recovery:master
+To git@github.com:jenkinsci/git-client-plugin.git
+ ! [rejected]        recovery -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:jenkinsci/git-client-plugin.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo git-plugin.git
+git-plugin.git
++ pushd git-plugin.git
+~/ws/jenkins/20131111-recovery/repos/git-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/git-plugin.git recovery:master
+To git@github.com:jenkinsci/git-plugin.git
+   f6d42c4..1e894cd  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo global-build-stats-plugin.git
+global-build-stats-plugin.git
++ pushd global-build-stats-plugin.git
+~/ws/jenkins/20131111-recovery/repos/global-build-stats-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/global-build-stats-plugin.git recovery:master
+To git@github.com:jenkinsci/global-build-stats-plugin.git
+   dff58df..08cf5c6  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo global-variable-string-parameter-plugin.git
+global-variable-string-parameter-plugin.git
++ pushd global-variable-string-parameter-plugin.git
+~/ws/jenkins/20131111-recovery/repos/global-variable-string-parameter-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/global-variable-string-parameter-plugin.git recovery:master
+To git@github.com:jenkinsci/global-variable-string-parameter-plugin.git
+   088a5a4..2893812  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo gradle-jpi-plugin.git
+gradle-jpi-plugin.git
++ pushd gradle-jpi-plugin.git
+~/ws/jenkins/20131111-recovery/repos/gradle-jpi-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/gradle-jpi-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo grails-plugin.git
+grails-plugin.git
++ pushd grails-plugin.git
+~/ws/jenkins/20131111-recovery/repos/grails-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/grails-plugin.git recovery:master
+To git@github.com:jenkinsci/grails-plugin.git
+   2de4edb..8e1aafa  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo greenballs-plugin.git
+greenballs-plugin.git
++ pushd greenballs-plugin.git
+~/ws/jenkins/20131111-recovery/repos/greenballs-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/greenballs-plugin.git recovery:master
+To git@github.com:jenkinsci/greenballs-plugin.git
+   511ffb2..75d6687  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo groovy-postbuild-plugin.git
+groovy-postbuild-plugin.git
++ pushd groovy-postbuild-plugin.git
+~/ws/jenkins/20131111-recovery/repos/groovy-postbuild-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/groovy-postbuild-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo heavy-job-plugin.git
+heavy-job-plugin.git
++ pushd heavy-job-plugin.git
+~/ws/jenkins/20131111-recovery/repos/heavy-job-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/heavy-job-plugin.git recovery:master
+To git@github.com:jenkinsci/heavy-job-plugin.git
+   7e8f6e8..eb7103c  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo hockeyapp-plugin.git
+hockeyapp-plugin.git
++ pushd hockeyapp-plugin.git
+~/ws/jenkins/20131111-recovery/repos/hockeyapp-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/hockeyapp-plugin.git recovery:master
+To git@github.com:jenkinsci/hockeyapp-plugin.git
+   9a9fe5a..7473c4c  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo http-request-plugin.git
+http-request-plugin.git
++ pushd http-request-plugin.git
+~/ws/jenkins/20131111-recovery/repos/http-request-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/http-request-plugin.git recovery:master
+To git@github.com:jenkinsci/http-request-plugin.git
+   ffcce7d..68b642c  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo humbug-plugin.git
+humbug-plugin.git
++ pushd humbug-plugin.git
+~/ws/jenkins/20131111-recovery/repos/humbug-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/humbug-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo instant-messaging-plugin.git
+instant-messaging-plugin.git
++ pushd instant-messaging-plugin.git
+~/ws/jenkins/20131111-recovery/repos/instant-messaging-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/instant-messaging-plugin.git recovery:master
+To git@github.com:jenkinsci/instant-messaging-plugin.git
+   f5be850..e6fab55  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo integrity-plugin.git
+integrity-plugin.git
++ pushd integrity-plugin.git
+~/ws/jenkins/20131111-recovery/repos/integrity-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/integrity-plugin.git recovery:master
+To git@github.com:jenkinsci/integrity-plugin.git
+   351ec6d..c4964dc  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo ironmq-notifier-plugin.git
+ironmq-notifier-plugin.git
++ pushd ironmq-notifier-plugin.git
+~/ws/jenkins/20131111-recovery/repos/ironmq-notifier-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/ironmq-notifier-plugin.git recovery:master
+To git@github.com:jenkinsci/ironmq-notifier-plugin.git
+ ! [rejected]        recovery -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:jenkinsci/ironmq-notifier-plugin.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo ivytrigger-plugin.git
+ivytrigger-plugin.git
++ pushd ivytrigger-plugin.git
+~/ws/jenkins/20131111-recovery/repos/ivytrigger-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/ivytrigger-plugin.git recovery:master
+To git@github.com:jenkinsci/ivytrigger-plugin.git
+   7af19df..182c380  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo jacoco-plugin.git
+jacoco-plugin.git
++ pushd jacoco-plugin.git
+~/ws/jenkins/20131111-recovery/repos/jacoco-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/jacoco-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo jclouds-plugin.git
+jclouds-plugin.git
++ pushd jclouds-plugin.git
+~/ws/jenkins/20131111-recovery/repos/jclouds-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/jclouds-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo jira-plugin.git
+jira-plugin.git
++ pushd jira-plugin.git
+~/ws/jenkins/20131111-recovery/repos/jira-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/jira-plugin.git recovery:master
+To git@github.com:jenkinsci/jira-plugin.git
+   5baab3e..9c9e780  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo jobConfigHistory-plugin.git
+jobConfigHistory-plugin.git
++ pushd jobConfigHistory-plugin.git
+~/ws/jenkins/20131111-recovery/repos/jobConfigHistory-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/jobConfigHistory-plugin.git recovery:master
+To git@github.com:jenkinsci/jobConfigHistory-plugin.git
+ ! [rejected]        recovery -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:jenkinsci/jobConfigHistory-plugin.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo job-dsl-plugin.git
+job-dsl-plugin.git
++ pushd job-dsl-plugin.git
+~/ws/jenkins/20131111-recovery/repos/job-dsl-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/job-dsl-plugin.git recovery:master
+To git@github.com:jenkinsci/job-dsl-plugin.git
+   bc79cd2..db766af  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo job-import-plugin.git
+job-import-plugin.git
++ pushd job-import-plugin.git
+~/ws/jenkins/20131111-recovery/repos/job-import-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/job-import-plugin.git recovery:master
+To git@github.com:jenkinsci/job-import-plugin.git
+   e52d913..1edaa53  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo job-poll-action-plugin.git
+job-poll-action-plugin.git
++ pushd job-poll-action-plugin.git
+~/ws/jenkins/20131111-recovery/repos/job-poll-action-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/job-poll-action-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo jquery-plugin.git
+jquery-plugin.git
++ pushd jquery-plugin.git
+~/ws/jenkins/20131111-recovery/repos/jquery-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/jquery-plugin.git recovery:master
+To git@github.com:jenkinsci/jquery-plugin.git
+   d44eb38..a5b19cf  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo jquery-ui-plugin.git
+jquery-ui-plugin.git
++ pushd jquery-ui-plugin.git
+~/ws/jenkins/20131111-recovery/repos/jquery-ui-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/jquery-ui-plugin.git recovery:master
+To git@github.com:jenkinsci/jquery-ui-plugin.git
+   a69e1a7..1feb6c1  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo json-lib.git
+json-lib.git
++ pushd json-lib.git
+~/ws/jenkins/20131111-recovery/repos/json-lib.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/json-lib.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo kiuwan-plugin.git
+kiuwan-plugin.git
++ pushd kiuwan-plugin.git
+~/ws/jenkins/20131111-recovery/repos/kiuwan-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/kiuwan-plugin.git recovery:master
+To git@github.com:jenkinsci/kiuwan-plugin.git
+   7f8835f..7266860  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo label-verifier-plugin.git
+label-verifier-plugin.git
++ pushd label-verifier-plugin.git
+~/ws/jenkins/20131111-recovery/repos/label-verifier-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/label-verifier-plugin.git recovery:master
+To git@github.com:jenkinsci/label-verifier-plugin.git
+   79a91a2..ef0c1d5  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo ldap-plugin.git
+ldap-plugin.git
++ pushd ldap-plugin.git
+~/ws/jenkins/20131111-recovery/repos/ldap-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/ldap-plugin.git recovery:master
+To git@github.com:jenkinsci/ldap-plugin.git
+   e5bc0f9..33a07f8  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo leiningen-plugin.git
+leiningen-plugin.git
++ pushd leiningen-plugin.git
+~/ws/jenkins/20131111-recovery/repos/leiningen-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/leiningen-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo lib-annotation-indexer.git
+lib-annotation-indexer.git
++ pushd lib-annotation-indexer.git
+~/ws/jenkins/20131111-recovery/repos/lib-annotation-indexer.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/lib-annotation-indexer.git recovery:master
+To git@github.com:jenkinsci/lib-annotation-indexer.git
+   72d8ad1..ea9a35b  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo lib-task-reactor.git
+lib-task-reactor.git
++ pushd lib-task-reactor.git
+~/ws/jenkins/20131111-recovery/repos/lib-task-reactor.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/lib-task-reactor.git recovery:master
+To git@github.com:jenkinsci/lib-task-reactor.git
+   119000d..8c952b7  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo lib-windows-remote-command.git
+lib-windows-remote-command.git
++ pushd lib-windows-remote-command.git
+~/ws/jenkins/20131111-recovery/repos/lib-windows-remote-command.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/lib-windows-remote-command.git recovery:master
+To git@github.com:jenkinsci/lib-windows-remote-command.git
+   eea9005..447f4c5  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo literate-cli.git
+literate-cli.git
++ pushd literate-cli.git
+~/ws/jenkins/20131111-recovery/repos/literate-cli.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/literate-cli.git recovery:master
+To git@github.com:jenkinsci/literate-cli.git
+   0a4f45c..5af6047  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo logfilesizechecker-plugin.git
+logfilesizechecker-plugin.git
++ pushd logfilesizechecker-plugin.git
+~/ws/jenkins/20131111-recovery/repos/logfilesizechecker-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/logfilesizechecker-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo m2release-plugin.git
+m2release-plugin.git
++ pushd m2release-plugin.git
+~/ws/jenkins/20131111-recovery/repos/m2release-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/m2release-plugin.git recovery:master
+To git@github.com:jenkinsci/m2release-plugin.git
+   975899b..531f00d  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo m2-repo-reaper-plugin.git
+m2-repo-reaper-plugin.git
++ pushd m2-repo-reaper-plugin.git
+~/ws/jenkins/20131111-recovery/repos/m2-repo-reaper-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/m2-repo-reaper-plugin.git recovery:master
+To git@github.com:jenkinsci/m2-repo-reaper-plugin.git
+   bedc353..a543b26  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo mailer-plugin.git
+mailer-plugin.git
++ pushd mailer-plugin.git
+~/ws/jenkins/20131111-recovery/repos/mailer-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/mailer-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo matrix-auth-plugin.git
+matrix-auth-plugin.git
++ pushd matrix-auth-plugin.git
+~/ws/jenkins/20131111-recovery/repos/matrix-auth-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/matrix-auth-plugin.git recovery:master
+To git@github.com:jenkinsci/matrix-auth-plugin.git
+ ! [rejected]        recovery -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:jenkinsci/matrix-auth-plugin.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo maven-hpi-plugin.git
+maven-hpi-plugin.git
++ pushd maven-hpi-plugin.git
+~/ws/jenkins/20131111-recovery/repos/maven-hpi-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/maven-hpi-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo maven-info-plugin.git
+maven-info-plugin.git
++ pushd maven-info-plugin.git
+~/ws/jenkins/20131111-recovery/repos/maven-info-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/maven-info-plugin.git recovery:master
+To git@github.com:jenkinsci/maven-info-plugin.git
+ ! [rejected]        recovery -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:jenkinsci/maven-info-plugin.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo mercurial-plugin.git
+mercurial-plugin.git
++ pushd mercurial-plugin.git
+~/ws/jenkins/20131111-recovery/repos/mercurial-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/mercurial-plugin.git recovery:master
+To git@github.com:jenkinsci/mercurial-plugin.git
+   60cbf5b..ebb6ee3  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo mesos-plugin.git
+mesos-plugin.git
++ pushd mesos-plugin.git
+~/ws/jenkins/20131111-recovery/repos/mesos-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/mesos-plugin.git recovery:master
+To git@github.com:jenkinsci/mesos-plugin.git
+ ! [rejected]        recovery -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:jenkinsci/mesos-plugin.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo metadata-plugin.git
+metadata-plugin.git
++ pushd metadata-plugin.git
+~/ws/jenkins/20131111-recovery/repos/metadata-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/metadata-plugin.git recovery:master
+To git@github.com:jenkinsci/metadata-plugin.git
+   856b69b..2842fd9  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo mock-security-realm-plugin.git
+mock-security-realm-plugin.git
++ pushd mock-security-realm-plugin.git
+~/ws/jenkins/20131111-recovery/repos/mock-security-realm-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/mock-security-realm-plugin.git recovery:master
+To git@github.com:jenkinsci/mock-security-realm-plugin.git
+   b6fa741..396be54  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo msbuild-plugin.git
+msbuild-plugin.git
++ pushd msbuild-plugin.git
+~/ws/jenkins/20131111-recovery/repos/msbuild-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/msbuild-plugin.git recovery:master
+To git@github.com:jenkinsci/msbuild-plugin.git
+   b1b89b7..d049016  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo naginator-plugin.git
+naginator-plugin.git
++ pushd naginator-plugin.git
+~/ws/jenkins/20131111-recovery/repos/naginator-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/naginator-plugin.git recovery:master
+To git@github.com:jenkinsci/naginator-plugin.git
+   1659e85..9cc5558  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo nerrvana-plugin.git
+nerrvana-plugin.git
++ pushd nerrvana-plugin.git
+~/ws/jenkins/20131111-recovery/repos/nerrvana-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/nerrvana-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo nested-view-plugin.git
+nested-view-plugin.git
++ pushd nested-view-plugin.git
+~/ws/jenkins/20131111-recovery/repos/nested-view-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/nested-view-plugin.git recovery:master
+To git@github.com:jenkinsci/nested-view-plugin.git
+   cc853be..607f54c  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo next-build-number-plugin.git
+next-build-number-plugin.git
++ pushd next-build-number-plugin.git
+~/ws/jenkins/20131111-recovery/repos/next-build-number-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/next-build-number-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo next-executions-plugin.git
+next-executions-plugin.git
++ pushd next-executions-plugin.git
+~/ws/jenkins/20131111-recovery/repos/next-executions-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/next-executions-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo parameterized-trigger-plugin.git
+parameterized-trigger-plugin.git
++ pushd parameterized-trigger-plugin.git
+~/ws/jenkins/20131111-recovery/repos/parameterized-trigger-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/parameterized-trigger-plugin.git recovery:master
+To git@github.com:jenkinsci/parameterized-trigger-plugin.git
+   7827fd5..bb32d96  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo perforce-plugin.git
+perforce-plugin.git
++ pushd perforce-plugin.git
+~/ws/jenkins/20131111-recovery/repos/perforce-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/perforce-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo performance-plugin.git
+performance-plugin.git
++ pushd performance-plugin.git
+~/ws/jenkins/20131111-recovery/repos/performance-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/performance-plugin.git recovery:master
+To git@github.com:jenkinsci/performance-plugin.git
+   042bad6..d23e2b3  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo persona-plugin.git
+persona-plugin.git
++ pushd persona-plugin.git
+~/ws/jenkins/20131111-recovery/repos/persona-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/persona-plugin.git recovery:master
+To git@github.com:jenkinsci/persona-plugin.git
+   3a3122d..58ea0d9  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo pitmutation-plugin.git
+pitmutation-plugin.git
++ pushd pitmutation-plugin.git
+~/ws/jenkins/20131111-recovery/repos/pitmutation-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/pitmutation-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo plain-credentials-plugin.git
+plain-credentials-plugin.git
++ pushd plain-credentials-plugin.git
+~/ws/jenkins/20131111-recovery/repos/plain-credentials-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/plain-credentials-plugin.git recovery:master
+To git@github.com:jenkinsci/plain-credentials-plugin.git
+   7b1b3e1..5a6c6ee  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo plugin-compat-tester.git
+plugin-compat-tester.git
++ pushd plugin-compat-tester.git
+~/ws/jenkins/20131111-recovery/repos/plugin-compat-tester.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/plugin-compat-tester.git recovery:master
+To git@github.com:jenkinsci/plugin-compat-tester.git
+   db23f04..a5c9be3  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo postbuildscript-plugin.git
+postbuildscript-plugin.git
++ pushd postbuildscript-plugin.git
+~/ws/jenkins/20131111-recovery/repos/postbuildscript-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/postbuildscript-plugin.git recovery:master
+To git@github.com:jenkinsci/postbuildscript-plugin.git
+   636cddc..fafb95f  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo promoted-builds-plugin.git
+promoted-builds-plugin.git
++ pushd promoted-builds-plugin.git
+~/ws/jenkins/20131111-recovery/repos/promoted-builds-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/promoted-builds-plugin.git recovery:master
+To git@github.com:jenkinsci/promoted-builds-plugin.git
+ ! [rejected]        recovery -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:jenkinsci/promoted-builds-plugin.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo prqa-plugin.git
+prqa-plugin.git
++ pushd prqa-plugin.git
+~/ws/jenkins/20131111-recovery/repos/prqa-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/prqa-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo publish-over-cifs-plugin.git
+publish-over-cifs-plugin.git
++ pushd publish-over-cifs-plugin.git
+~/ws/jenkins/20131111-recovery/repos/publish-over-cifs-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/publish-over-cifs-plugin.git recovery:master
+To git@github.com:jenkinsci/publish-over-cifs-plugin.git
+   b079339..5740aec  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo puppet-jenkins.git
+puppet-jenkins.git
++ pushd puppet-jenkins.git
+~/ws/jenkins/20131111-recovery/repos/puppet-jenkins.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/puppet-jenkins.git recovery:master
+To git@github.com:jenkinsci/puppet-jenkins.git
+ ! [rejected]        recovery -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:jenkinsci/puppet-jenkins.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo radiatorview-plugin.git
+radiatorview-plugin.git
++ pushd radiatorview-plugin.git
+~/ws/jenkins/20131111-recovery/repos/radiatorview-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/radiatorview-plugin.git recovery:master
+To git@github.com:jenkinsci/radiatorview-plugin.git
+   8b0b3a4..ceb0d34  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo rapiddeploy-plugin.git
+rapiddeploy-plugin.git
++ pushd rapiddeploy-plugin.git
+~/ws/jenkins/20131111-recovery/repos/rapiddeploy-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/rapiddeploy-plugin.git recovery:master
+To git@github.com:jenkinsci/rapiddeploy-plugin.git
+   20b6b10..c02347c  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo release-plugin.git
+release-plugin.git
++ pushd release-plugin.git
+~/ws/jenkins/20131111-recovery/repos/release-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/release-plugin.git recovery:master
+To git@github.com:jenkinsci/release-plugin.git
+   6e0e47a..b45ef23  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo repo-plugin.git
+repo-plugin.git
++ pushd repo-plugin.git
+~/ws/jenkins/20131111-recovery/repos/repo-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/repo-plugin.git recovery:master
+To git@github.com:jenkinsci/repo-plugin.git
+   31f9929..42bc86d  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo rich-text-publisher-plugin.git
+rich-text-publisher-plugin.git
++ pushd rich-text-publisher-plugin.git
+~/ws/jenkins/20131111-recovery/repos/rich-text-publisher-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/rich-text-publisher-plugin.git recovery:master
+To git@github.com:jenkinsci/rich-text-publisher-plugin.git
+   e54a7c9..71c57d1  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo robot-plugin.git
+robot-plugin.git
++ pushd robot-plugin.git
+~/ws/jenkins/20131111-recovery/repos/robot-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/robot-plugin.git recovery:master
+To git@github.com:jenkinsci/robot-plugin.git
+   614942a..8974d0c  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo run-condition-plugin.git
+run-condition-plugin.git
++ pushd run-condition-plugin.git
+~/ws/jenkins/20131111-recovery/repos/run-condition-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/run-condition-plugin.git recovery:master
+To git@github.com:jenkinsci/run-condition-plugin.git
+   cc194ec..357f146  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo rvm-plugin.git
+rvm-plugin.git
++ pushd rvm-plugin.git
+~/ws/jenkins/20131111-recovery/repos/rvm-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/rvm-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo scm2job-plugin.git
+scm2job-plugin.git
++ pushd scm2job-plugin.git
+~/ws/jenkins/20131111-recovery/repos/scm2job-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/scm2job-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo scm-api-plugin.git
+scm-api-plugin.git
++ pushd scm-api-plugin.git
+~/ws/jenkins/20131111-recovery/repos/scm-api-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/scm-api-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo scoring-load-balancer-plugin.git
+scoring-load-balancer-plugin.git
++ pushd scoring-load-balancer-plugin.git
+~/ws/jenkins/20131111-recovery/repos/scoring-load-balancer-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/scoring-load-balancer-plugin.git recovery:master
+To git@github.com:jenkinsci/scoring-load-balancer-plugin.git
+ ! [rejected]        recovery -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:jenkinsci/scoring-load-balancer-plugin.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo script-scm-plugin.git
+script-scm-plugin.git
++ pushd script-scm-plugin.git
+~/ws/jenkins/20131111-recovery/repos/script-scm-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/script-scm-plugin.git recovery:master
+To git@github.com:jenkinsci/script-scm-plugin.git
+   cd96e7f..42e29d3  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo selenium-axis-plugin.git
+selenium-axis-plugin.git
++ pushd selenium-axis-plugin.git
+~/ws/jenkins/20131111-recovery/repos/selenium-axis-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/selenium-axis-plugin.git recovery:master
+To git@github.com:jenkinsci/selenium-axis-plugin.git
+   1ccd9a8..bfa4377  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo selenium-builder-plugin.git
+selenium-builder-plugin.git
++ pushd selenium-builder-plugin.git
+~/ws/jenkins/20131111-recovery/repos/selenium-builder-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/selenium-builder-plugin.git recovery:master
+To git@github.com:jenkinsci/selenium-builder-plugin.git
+   0387d9c..35a73ad  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo selenium-tests.git
+selenium-tests.git
++ pushd selenium-tests.git
+~/ws/jenkins/20131111-recovery/repos/selenium-tests.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/selenium-tests.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo skype-im-plugin.git
+skype-im-plugin.git
++ pushd skype-im-plugin.git
+~/ws/jenkins/20131111-recovery/repos/skype-im-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/skype-im-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo skytap-cloud-plugin.git
+skytap-cloud-plugin.git
++ pushd skytap-cloud-plugin.git
+~/ws/jenkins/20131111-recovery/repos/skytap-cloud-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/skytap-cloud-plugin.git recovery:master
+To git@github.com:jenkinsci/skytap-cloud-plugin.git
+   679b871..5671432  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo smartfrog-plugin.git
+smartfrog-plugin.git
++ pushd smartfrog-plugin.git
+~/ws/jenkins/20131111-recovery/repos/smartfrog-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/smartfrog-plugin.git recovery:master
+To git@github.com:jenkinsci/smartfrog-plugin.git
+   3783fbc..f6808ab  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo sms-plugin.git
+sms-plugin.git
++ pushd sms-plugin.git
+~/ws/jenkins/20131111-recovery/repos/sms-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/sms-plugin.git recovery:master
+To git@github.com:jenkinsci/sms-plugin.git
+   233faec..97fb324  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo sounds-plugin.git
+sounds-plugin.git
++ pushd sounds-plugin.git
+~/ws/jenkins/20131111-recovery/repos/sounds-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/sounds-plugin.git recovery:master
+To git@github.com:jenkinsci/sounds-plugin.git
+   e19b5ea..cd32e83  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo ssh-agent-plugin.git
+ssh-agent-plugin.git
++ pushd ssh-agent-plugin.git
+~/ws/jenkins/20131111-recovery/repos/ssh-agent-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/ssh-agent-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo ssh-credentials-plugin.git
+ssh-credentials-plugin.git
++ pushd ssh-credentials-plugin.git
+~/ws/jenkins/20131111-recovery/repos/ssh-credentials-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/ssh-credentials-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo sshd-module.git
+sshd-module.git
++ pushd sshd-module.git
+~/ws/jenkins/20131111-recovery/repos/sshd-module.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/sshd-module.git recovery:master
+To git@github.com:jenkinsci/sshd-module.git
+   96c25a4..c18c8c1  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo ssh-slaves-plugin.git
+ssh-slaves-plugin.git
++ pushd ssh-slaves-plugin.git
+~/ws/jenkins/20131111-recovery/repos/ssh-slaves-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/ssh-slaves-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo starteam-plugin.git
+starteam-plugin.git
++ pushd starteam-plugin.git
+~/ws/jenkins/20131111-recovery/repos/starteam-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/starteam-plugin.git recovery:master
+To git@github.com:jenkinsci/starteam-plugin.git
+   61a4ecb..7002128  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo stashnotifier-plugin.git
+stashnotifier-plugin.git
++ pushd stashnotifier-plugin.git
+~/ws/jenkins/20131111-recovery/repos/stashnotifier-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/stashnotifier-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo subversion-plugin.git
+subversion-plugin.git
++ pushd subversion-plugin.git
+~/ws/jenkins/20131111-recovery/repos/subversion-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/subversion-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo suppress-stack-trace-plugin.git
+suppress-stack-trace-plugin.git
++ pushd suppress-stack-trace-plugin.git
+~/ws/jenkins/20131111-recovery/repos/suppress-stack-trace-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/suppress-stack-trace-plugin.git recovery:master
+To git@github.com:jenkinsci/suppress-stack-trace-plugin.git
+   dea27c5..b6c7df3  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo swarm-plugin.git
+swarm-plugin.git
++ pushd swarm-plugin.git
+~/ws/jenkins/20131111-recovery/repos/swarm-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/swarm-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo synergy_scm-plugin.git
+synergy_scm-plugin.git
++ pushd synergy_scm-plugin.git
+~/ws/jenkins/20131111-recovery/repos/synergy_scm-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/synergy_scm-plugin.git recovery:master
+To git@github.com:jenkinsci/synergy_scm-plugin.git
+   39e8883..581db69  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo tap-plugin.git
+tap-plugin.git
++ pushd tap-plugin.git
+~/ws/jenkins/20131111-recovery/repos/tap-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/tap-plugin.git recovery:master
+To git@github.com:jenkinsci/tap-plugin.git
+   bb0f9d1..e5c61ff  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo teamconcert-plugin.git
+teamconcert-plugin.git
++ pushd teamconcert-plugin.git
+~/ws/jenkins/20131111-recovery/repos/teamconcert-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/teamconcert-plugin.git recovery:master
+To git@github.com:jenkinsci/teamconcert-plugin.git
+   dd788fc..90bf254  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo testlink-plugin.git
+testlink-plugin.git
++ pushd testlink-plugin.git
+~/ws/jenkins/20131111-recovery/repos/testlink-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/testlink-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo tfs-plugin.git
+tfs-plugin.git
++ pushd tfs-plugin.git
+~/ws/jenkins/20131111-recovery/repos/tfs-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/tfs-plugin.git recovery:master
+To git@github.com:jenkinsci/tfs-plugin.git
+   12b7198..f61f3fc  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo thin-backup-plugin.git
+thin-backup-plugin.git
++ pushd thin-backup-plugin.git
+~/ws/jenkins/20131111-recovery/repos/thin-backup-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/thin-backup-plugin.git recovery:master
+To git@github.com:jenkinsci/thin-backup-plugin.git
+   7e364ee..0900a7b  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo throttle-concurrent-builds-plugin.git
+throttle-concurrent-builds-plugin.git
++ pushd throttle-concurrent-builds-plugin.git
+~/ws/jenkins/20131111-recovery/repos/throttle-concurrent-builds-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/throttle-concurrent-builds-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo tikal-multijob-plugin.git
+tikal-multijob-plugin.git
++ pushd tikal-multijob-plugin.git
+~/ws/jenkins/20131111-recovery/repos/tikal-multijob-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/tikal-multijob-plugin.git recovery:master
+To git@github.com:jenkinsci/tikal-multijob-plugin.git
+   f9336d9..9c94ebb  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo timestamper-plugin.git
+timestamper-plugin.git
++ pushd timestamper-plugin.git
+~/ws/jenkins/20131111-recovery/repos/timestamper-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/timestamper-plugin.git recovery:master
+To git@github.com:jenkinsci/timestamper-plugin.git
+ ! [rejected]        recovery -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:jenkinsci/timestamper-plugin.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo token-macro-plugin.git
+token-macro-plugin.git
++ pushd token-macro-plugin.git
+~/ws/jenkins/20131111-recovery/repos/token-macro-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/token-macro-plugin.git recovery:master
+To git@github.com:jenkinsci/token-macro-plugin.git
+   c086661..bdad176  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo transifex-plugin.git
+transifex-plugin.git
++ pushd transifex-plugin.git
+~/ws/jenkins/20131111-recovery/repos/transifex-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/transifex-plugin.git recovery:master
+To git@github.com:jenkinsci/transifex-plugin.git
+ ! [rejected]        recovery -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:jenkinsci/transifex-plugin.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo translation-plugin.git
+translation-plugin.git
++ pushd translation-plugin.git
+~/ws/jenkins/20131111-recovery/repos/translation-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/translation-plugin.git recovery:master
+To git@github.com:jenkinsci/translation-plugin.git
+ ! [rejected]        recovery -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:jenkinsci/translation-plugin.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo trilead-ssh2.git
+trilead-ssh2.git
++ pushd trilead-ssh2.git
+~/ws/jenkins/20131111-recovery/repos/trilead-ssh2.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/trilead-ssh2.git recovery:master
+To git@github.com:jenkinsci/trilead-ssh2.git
+   531c18a..a1be0fa  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo unity3d-plugin.git
+unity3d-plugin.git
++ pushd unity3d-plugin.git
+~/ws/jenkins/20131111-recovery/repos/unity3d-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/unity3d-plugin.git recovery:master
+To git@github.com:jenkinsci/unity3d-plugin.git
+   b98a066..f10a954  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo veracode-scanner-plugin.git
+veracode-scanner-plugin.git
++ pushd veracode-scanner-plugin.git
+~/ws/jenkins/20131111-recovery/repos/veracode-scanner-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/veracode-scanner-plugin.git recovery:master
+To git@github.com:jenkinsci/veracode-scanner-plugin.git
+   c61e91f..a4628f1  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo view-job-filters-plugin.git
+view-job-filters-plugin.git
++ pushd view-job-filters-plugin.git
+~/ws/jenkins/20131111-recovery/repos/view-job-filters-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/view-job-filters-plugin.git recovery:master
+To git@github.com:jenkinsci/view-job-filters-plugin.git
+ ! [rejected]        recovery -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:jenkinsci/view-job-filters-plugin.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo virtualbox-plugin.git
+virtualbox-plugin.git
++ pushd virtualbox-plugin.git
+~/ws/jenkins/20131111-recovery/repos/virtualbox-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/virtualbox-plugin.git recovery:master
+To git@github.com:jenkinsci/virtualbox-plugin.git
+   a3a219b..eaec184  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo vsphere-cloud-plugin.git
+vsphere-cloud-plugin.git
++ pushd vsphere-cloud-plugin.git
+~/ws/jenkins/20131111-recovery/repos/vsphere-cloud-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/vsphere-cloud-plugin.git recovery:master
+To git@github.com:jenkinsci/vsphere-cloud-plugin.git
+   ae67fd4..447894e  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo vstestrunner-plugin.git
+vstestrunner-plugin.git
++ pushd vstestrunner-plugin.git
+~/ws/jenkins/20131111-recovery/repos/vstestrunner-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/vstestrunner-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo walldisplay-plugin.git
+walldisplay-plugin.git
++ pushd walldisplay-plugin.git
+~/ws/jenkins/20131111-recovery/repos/walldisplay-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/walldisplay-plugin.git recovery:master
+To git@github.com:jenkinsci/walldisplay-plugin.git
+   264b084..16f60e7  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo warnings-plugin.git
+warnings-plugin.git
++ pushd warnings-plugin.git
+~/ws/jenkins/20131111-recovery/repos/warnings-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/warnings-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo weblogic-deployer-plugin.git
+weblogic-deployer-plugin.git
++ pushd weblogic-deployer-plugin.git
+~/ws/jenkins/20131111-recovery/repos/weblogic-deployer-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/weblogic-deployer-plugin.git recovery:master
+To git@github.com:jenkinsci/weblogic-deployer-plugin.git
+   abb3f78..69ceaa0  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo winstone.git
+winstone.git
++ pushd winstone.git
+~/ws/jenkins/20131111-recovery/repos/winstone.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/winstone.git recovery:master
+To git@github.com:jenkinsci/winstone.git
+   91a5f3b..ddcbbd4  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo wix-plugin.git
+wix-plugin.git
++ pushd wix-plugin.git
+~/ws/jenkins/20131111-recovery/repos/wix-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/wix-plugin.git recovery:master
+To git@github.com:jenkinsci/wix-plugin.git
+   2d8cfdf..ed6ca57  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo ws-cleanup-plugin.git
+ws-cleanup-plugin.git
++ pushd ws-cleanup-plugin.git
+~/ws/jenkins/20131111-recovery/repos/ws-cleanup-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/ws-cleanup-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo xcode-plugin.git
+xcode-plugin.git
++ pushd xcode-plugin.git
+~/ws/jenkins/20131111-recovery/repos/xcode-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/xcode-plugin.git recovery:master
+Everything up-to-date
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo xstream.git
+xstream.git
++ pushd xstream.git
+~/ws/jenkins/20131111-recovery/repos/xstream.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/xstream.git recovery:master
+To git@github.com:jenkinsci/xstream.git
+   f669b43..12bfeb1  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo xtrigger-lib.git
+xtrigger-lib.git
++ pushd xtrigger-lib.git
+~/ws/jenkins/20131111-recovery/repos/xtrigger-lib.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/xtrigger-lib.git recovery:master
+To git@github.com:jenkinsci/xtrigger-lib.git
+   69a0129..bcca557  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo xunit-plugin.git
+xunit-plugin.git
++ pushd xunit-plugin.git
+~/ws/jenkins/20131111-recovery/repos/xunit-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/xunit-plugin.git recovery:master
+To git@github.com:jenkinsci/xunit-plugin.git
+   1b60618..534c6f3  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo xvfb-plugin.git
+xvfb-plugin.git
++ pushd xvfb-plugin.git
+~/ws/jenkins/20131111-recovery/repos/xvfb-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/xvfb-plugin.git recovery:master
+To git@github.com:jenkinsci/xvfb-plugin.git
+   1666cff..db186f9  recovery -> master
++ popd
+~/ws/jenkins/20131111-recovery/repos
++ for f in '*'
++ echo xvnc-plugin.git
+xvnc-plugin.git
++ pushd xvnc-plugin.git
+~/ws/jenkins/20131111-recovery/repos/xvnc-plugin.git ~/ws/jenkins/20131111-recovery/repos
++ git push git@github.com:jenkinsci/xvnc-plugin.git recovery:master
+To git@github.com:jenkinsci/xvnc-plugin.git
+ ! [rejected]        recovery -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:jenkinsci/xvnc-plugin.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
++ popd
+~/ws/jenkins/20131111-recovery/repos
